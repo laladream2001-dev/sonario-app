@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="vi" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sonario — Học tiếng Anh tự nhiên (Version B · v1.0)</title>
+  <meta name="description" content="Sonario — Ứng dụng học tiếng Anh tự nhiên với cảnh sống động, sách ngữ pháp có âm thanh và thẻ nhớ thông minh FSRS v5.">
+  <link rel="alternate" hreflang="vi" href="https://sonario.pp.ua/?lang=vi">
+  <link rel="alternate" hreflang="en" href="https://sonario.pp.ua/?lang=en">
+  <link rel="alternate" hreflang="es" href="https://sonario.pp.ua/?lang=es">
+  <link rel="alternate" hreflang="zh-Hans" href="https://sonario.pp.ua/?lang=zh-Hans">
+  <link rel="alternate" hreflang="hi" href="https://sonario.pp.ua/?lang=hi">
+  <link rel="alternate" hreflang="fa" href="https://sonario.pp.ua/?lang=fa">
+  <link rel="alternate" hreflang="x-default" href="https://sonario.pp.ua/">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Top Global Bar: Brand + Language Resolver Trigger + Theme & Keyboard Triggers -->
+  <header class="global-topbar">
+    <div class="brand-cluster">
+      <div class="brand-logo" onclick="SonarioApp.navigate('home')">
+        <span>Sonario</span>
+        <span class="brand-badge">v1.0 · Version B</span>
+      </div>
+    </div>
+    <div class="top-actions">
+      <button class="pill-btn" onclick="SonarioApp.navigate('appearance')" title="Đổi bảng màu (32 Themes + Random)">
+        🎨 Theme
+      </button>
+      <button class="pill-btn" onclick="SonarioApp.openSheet('keys-sheet')" title="Phím tắt bàn phím (?)">
+        ⌨️ Phím tắt
+      </button>
+      <button class="pill-btn" onclick="SonarioApp.openSheet('lang-sheet')" title="Chọn ngôn ngữ hỗ trợ (91 thị trường)">
+        🌐 <span id="active-lang-label">Tiếng Việt</span>
+      </button>
+    </div>
+  </header>
+
+  <!-- Main App Stage (Mobile-First Shell) -->
+  <main class="app-stage-wrap">
+    <div class="app-shell">
+      <div id="sonario-screen-body" style="display:flex;flex-direction:column;gap:12px;flex:1;">
+        <!-- Rendered dynamically by SonarioApp -->
+      </div>
+
+      <!-- Plan A Navigation Bar: 1 Dynamic Continue Button + 1 Round "•••" Sheet Button -->
+      <nav class="bottombar" aria-label="Điều hướng chính">
+        <button id="sonario-continue-btn" class="continue-btn">▶ Bắt đầu học</button>
+        <button class="dotsbtn" onclick="SonarioApp.openSheet('nav-sheet')" title="Mở bảng điều hướng 5 khu vực">•••</button>
+      </nav>
+    </div>
+  </main>
+
+  <!-- Screen 8: The "•••" Navigation Sheet (5 Big Area Tiles + 2 Compact Rows) -->
+  <div id="nav-sheet" class="sheet-backdrop hidden" onclick="if(event.target===this) SonarioApp.closeAllSheets()">
+    <div class="sheet-panel">
+      <div style="display:flex;justify-content:space-between;align-items:center;">
+        <b style="font-size:16.5px;">Chuyển tới… (Go to…)</b>
+        <button class="pill-btn" onclick="SonarioApp.closeAllSheets()">✕</button>
+      </div>
+      <div class="tiles-grid">
+        <button class="nav-tile" onclick="SonarioApp.navigate('home')">
+          <svg viewBox="0 0 24 24"><path d="M12 3l9 8h-3v9h-4v-6H10v6H6v-9H3z"/></svg>
+          Home (Hôm nay)
+        </button>
+        <button class="nav-tile" onclick="SonarioApp.navigate('grammar_map')">
+          <svg viewBox="0 0 24 24"><path d="M5 3h12a2 2 0 0 1 2 2v16H7a2 2 0 0 1-2-2V3zm2 2v12.5c0 .3.2.5.5.5H17V5H7z"/></svg>
+          Grammar (60 Bài)
+        </button>
+        <button class="nav-tile" onclick="SonarioApp.navigate('words')">
+          <svg viewBox="0 0 24 24"><text x="12" y="17" text-anchor="middle" font-size="13" font-weight="800" fill="currentColor">Aa</text></svg>
+          Words (Từ & Cảnh)
+        </button>
+        <button class="nav-tile" onclick="SonarioApp.navigate('review')">
+          <svg viewBox="0 0 24 24"><path d="M12 4a8 8 0 1 1-7.4 5.3l2.2.6A6 6 0 1 0 12 6v4L7.5 6.5 12 3v1z"/></svg>
+          Review (Ôn thẻ)
+        </button>
+        <button class="nav-tile" style="grid-column: span 2;" onclick="SonarioApp.navigate('me')">
+          <svg viewBox="0 0 24 24"><path d="M12 4a4 4 0 1 1 0 8 4 4 0 0 1 0-8zm0 10c4.4 0 8 2 8 4.5V20H4v-1.5C4 16 7.6 14 12 14z"/></svg>
+          Me (Tiến độ & Gói học)
+        </button>
+      </div>
+      <div class="card">
+        <div class="setrow" onclick="SonarioApp.navigate('settings')">
+          <span>Cài đặt (Settings · Dịch & Khoá phụ huynh)</span><span>›</span>
+        </div>
+        <div class="setrow" onclick="SonarioApp.navigate('appearance')">
+          <span>Giao diện / Bảng màu (Appearance · 32 Themes)</span><span>›</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Language Picker Sheet (Multi-Market v1 · 91 Markets Scope) -->
+  <div id="lang-sheet" class="sheet-backdrop hidden" onclick="if(event.target===this) SonarioApp.closeAllSheets()">
+    <div class="sheet-panel">
+      <div style="display:flex;justify-content:space-between;align-items:center;">
+        <b style="font-size:16px;">🌐 Chọn ngôn ngữ giải thích (Đổi không mất tiến độ)</b>
+        <button class="pill-btn" onclick="SonarioApp.closeAllSheets()">✕</button>
+      </div>
+      <input type="text" class="search-input" placeholder="Tìm Tiếng Việt, English, Español, فارسی, mã ISO..."
+             oninput="SonarioApp.renderLanguagePickerList(this.value)">
+      <div id="lang-picker-list" style="display:flex;flex-direction:column;gap:2px;"></div>
+    </div>
+  </div>
+
+  <!-- Keyboard Shortcuts Sheet -->
+  <div id="keys-sheet" class="sheet-backdrop hidden" onclick="if(event.target===this) SonarioApp.closeAllSheets()">
+    <div class="sheet-panel">
+      <div style="display:flex;justify-content:space-between;align-items:center;">
+        <b style="font-size:16px;">⌨️ Bản đồ Phím tắt Máy tính (Version B)</b>
+        <button class="pill-btn" onclick="SonarioApp.closeAllSheets()">✕</button>
+      </div>
+      <div class="card">
+        <div class="setrow"><span><b>W</b></span><span>Nghe lại phát âm từ chính (Headword)</span></div>
+        <div class="setrow"><span><b>R</b></span><span>Nghe lại câu mẫu</span></div>
+        <div class="setrow"><span><b>T</b></span><span>Hiện / ẩn nhanh bản dịch inline (3s / 5s)</span></div>
+        <div class="setrow"><span><b>V</b></span><span>Đổi 4 kiểu nhấn mạnh từ chính (Display / Serif / Highlight / Gradient)</span></div>
+        <div class="setrow"><span><b>Enter</b></span><span>Pha 1: Xem đáp án thẻ ôn · Pha 2: Chấm Được & qua thẻ</span></div>
+        <div class="setrow"><span><b>1 – 4</b></span><span>Chấm thẻ FSRS (1: Quên, 2: Khó, 3: Được, 4: Dễ — sau khi lật)</span></div>
+        <div class="setrow"><span><b>F</b></span><span>Bật / tắt chế độ video toàn màn hình (ẩn thanh điều hướng)</span></div>
+        <div class="setrow"><span><b>H</b></span><span>Quay về màn hình Hôm nay (Home)</span></div>
+        <div class="setrow"><span><b>Esc</b></span><span>Đóng bảng chọn / thoát toàn màn hình</span></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Gumroad Family Licence Sheet -->
+  <div id="licence-sheet" class="sheet-backdrop hidden" onclick="if(event.target===this) SonarioApp.closeAllSheets()">
+    <div class="sheet-panel">
+      <div style="display:flex;justify-content:space-between;align-items:center;">
+        <b style="font-size:16px;">👨‍👩‍👧‍👦 Giấy phép Gia đình Trọn đời (189.000đ)</b>
+        <button class="pill-btn" onclick="SonarioApp.closeAllSheets()">✕</button>
+      </div>
+      <p class="muted" style="margin:0;line-height:1.55;">
+        Một mã giấy phép dùng cho cả gia đình (tối đa 6 thành viên), mở khoá toàn bộ lộ trình và tạo theme AI. Xác thực 1 lần qua Gumroad API, sau đó lưu chữ ký số Ed25519 hoạt động 100% offline.
+      </p>
+      <input id="gumroad-key-input" type="text" class="search-input"
+             placeholder="Nhập mã giấy phép Gumroad hoặc FAM|LIC-2026-0001...">
+      <div id="gumroad-status-msg" class="tiny" style="color:var(--accent-primary);font-weight:600;"></div>
+      <div class="row">
+        <a class="btn light" href="https://gumroad.com" target="_blank" rel="noopener">Mua trên Gumroad ›</a>
+        <button class="btn" onclick="SonarioApp.verifyGumroadLicenseKey()">Kích hoạt mã ✓</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

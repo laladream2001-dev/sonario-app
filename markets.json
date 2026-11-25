@@ -1,0 +1,443 @@
+{
+  "schema_version": "1.0",
+  "cdn_origin": "https://cdn.sonario.pp.ua",
+  "app_domain": "https://sonario.pp.ua",
+  "total_planned_markets": 91,
+  "markets": {
+    "vi": {
+      "bcp47": "vi",
+      "endonym": "Tiếng Việt",
+      "en_name": "Vietnamese",
+      "country_hints": [
+        "VN"
+      ],
+      "dir": "ltr",
+      "script": "Latn",
+      "release_tier": "full",
+      "status": "live",
+      "pack_url": "pack.vi.v1.0.json",
+      "pack_gz_url": "https://cdn.sonario.pp.ua/packs/vi/pack.vi.v1.0.json.gz",
+      "torrent_url": "https://cdn.sonario.pp.ua/packs/vi/pack.vi.v1.0.torrent",
+      "blogger_url": "https://vi-sonario.blogspot.com",
+      "ip_banner_prompt": "Bạn muốn xem giải thích bằng Tiếng Việt?",
+      "ip_banner_accept": "Chuyển sang Tiếng Việt",
+      "ip_banner_keep": "Giữ Tiếng Anh"
+    },
+    "en": {
+      "bcp47": "en",
+      "endonym": "Simple English",
+      "en_name": "Simple English",
+      "country_hints": [
+        "US",
+        "GB",
+        "AU",
+        "CA",
+        "NZ",
+        "IE"
+      ],
+      "dir": "ltr",
+      "script": "Latn",
+      "release_tier": "full",
+      "status": "live",
+      "pack_url": "https://cdn.sonario.pp.ua/packs/en/pack.en.v1.0.json.gz",
+      "blogger_url": "https://en-sonario.blogspot.com"
+    },
+    "es": {
+      "bcp47": "es",
+      "endonym": "Español",
+      "en_name": "Spanish",
+      "country_hints": [
+        "ES",
+        "MX",
+        "CO",
+        "AR",
+        "PE",
+        "CL",
+        "VE",
+        "EC",
+        "GT",
+        "CU",
+        "BO",
+        "DO",
+        "HN",
+        "PY",
+        "SV",
+        "NI",
+        "CR",
+        "PA",
+        "UY"
+      ],
+      "dir": "ltr",
+      "script": "Latn",
+      "release_tier": "full",
+      "status": "live",
+      "pack_url": "https://cdn.sonario.pp.ua/packs/es/pack.es.v1.0.json.gz",
+      "blogger_url": "https://es-sonario.blogspot.com",
+      "ip_banner_prompt": "¿Quieres ver las explicaciones en Español?",
+      "ip_banner_accept": "Cambiar a Español",
+      "ip_banner_keep": "Mantener Inglés"
+    },
+    "zh-Hans": {
+      "bcp47": "zh-Hans",
+      "endonym": "简体中文",
+      "en_name": "Chinese (Simplified)",
+      "country_hints": [
+        "CN",
+        "SG"
+      ],
+      "dir": "ltr",
+      "script": "Hans",
+      "release_tier": "full",
+      "status": "live",
+      "pack_url": "https://cdn.sonario.pp.ua/packs/zh-Hans/pack.zh-Hans.v1.0.json.gz",
+      "blogger_url": "https://zh-sonario.blogspot.com",
+      "ip_banner_prompt": "您想查看简体中文解释吗？",
+      "ip_banner_accept": "切换到简体中文",
+      "ip_banner_keep": "保持英文"
+    },
+    "hi": {
+      "bcp47": "hi",
+      "endonym": "हिन्दी",
+      "en_name": "Hindi",
+      "country_hints": [
+        "IN"
+      ],
+      "dir": "ltr",
+      "script": "Deva",
+      "release_tier": "full",
+      "status": "live",
+      "pack_url": "https://cdn.sonario.pp.ua/packs/hi/pack.hi.v1.0.json.gz",
+      "blogger_url": "https://hi-sonario.blogspot.com",
+      "ip_banner_prompt": "क्या आप हिन्दी में व्याख्या देखना चाहते हैं?",
+      "ip_banner_accept": "हिन्दी में बदलें",
+      "ip_banner_keep": "अंग्रेज़ी रखें"
+    },
+    "fa": {
+      "bcp47": "fa",
+      "endonym": "فارسی",
+      "en_name": "Persian (Farsi)",
+      "country_hints": [
+        "IR",
+        "AF"
+      ],
+      "dir": "rtl",
+      "script": "Arab",
+      "release_tier": "full",
+      "status": "live",
+      "pack_url": "https://cdn.sonario.pp.ua/packs/fa/pack.fa.v1.0.json.gz",
+      "blogger_url": "https://fa-sonario.blogspot.com",
+      "ip_banner_prompt": "آیا می‌خواهید توضیحات را به زبان فارسی ببینید؟",
+      "ip_banner_accept": "تغییر به فارسی",
+      "ip_banner_keep": "ادامه با انگلیسی"
+    },
+    "ar": {
+      "bcp47": "ar",
+      "endonym": "العربية",
+      "en_name": "Arabic",
+      "country_hints": [
+        "EG",
+        "SA",
+        "AE",
+        "MA",
+        "DZ",
+        "IQ",
+        "JO",
+        "TN",
+        "LB",
+        "KW",
+        "OM",
+        "QA",
+        "BH"
+      ],
+      "dir": "rtl",
+      "script": "Arab",
+      "release_tier": "full",
+      "status": "live",
+      "pack_url": "https://cdn.sonario.pp.ua/packs/ar/pack.ar.v1.0.json.gz",
+      "blogger_url": "https://ar-sonario.blogspot.com"
+    },
+    "pt": {
+      "bcp47": "pt",
+      "endonym": "Português",
+      "en_name": "Portuguese",
+      "country_hints": [
+        "BR",
+        "PT",
+        "AO",
+        "MZ"
+      ],
+      "dir": "ltr",
+      "script": "Latn",
+      "release_tier": "full",
+      "status": "live",
+      "pack_url": "https://cdn.sonario.pp.ua/packs/pt/pack.pt.v1.0.json.gz"
+    },
+    "bn": {
+      "bcp47": "bn",
+      "endonym": "বাংলা",
+      "en_name": "Bengali",
+      "country_hints": [
+        "BD",
+        "IN"
+      ],
+      "dir": "ltr",
+      "script": "Beng",
+      "release_tier": "full",
+      "status": "live",
+      "pack_url": "https://cdn.sonario.pp.ua/packs/bn/pack.bn.v1.0.json.gz"
+    },
+    "ru": {
+      "bcp47": "ru",
+      "endonym": "Русский",
+      "en_name": "Russian",
+      "country_hints": [
+        "RU",
+        "BY",
+        "KZ",
+        "KG"
+      ],
+      "dir": "ltr",
+      "script": "Cyrl",
+      "release_tier": "full",
+      "status": "live",
+      "pack_url": "https://cdn.sonario.pp.ua/packs/ru/pack.ru.v1.0.json.gz"
+    },
+    "ja": {
+      "bcp47": "ja",
+      "endonym": "日本語",
+      "en_name": "Japanese",
+      "country_hints": [
+        "JP"
+      ],
+      "dir": "ltr",
+      "script": "Jpan",
+      "release_tier": "full",
+      "status": "live",
+      "pack_url": "https://cdn.sonario.pp.ua/packs/ja/pack.ja.v1.0.json.gz"
+    },
+    "id": {
+      "bcp47": "id",
+      "endonym": "Bahasa Indonesia",
+      "en_name": "Indonesian",
+      "country_hints": [
+        "ID"
+      ],
+      "dir": "ltr",
+      "script": "Latn",
+      "release_tier": "full",
+      "status": "live",
+      "pack_url": "https://cdn.sonario.pp.ua/packs/id/pack.id.v1.0.json.gz"
+    },
+    "fr": {
+      "bcp47": "fr",
+      "endonym": "Français",
+      "en_name": "French",
+      "country_hints": [
+        "FR",
+        "CD",
+        "CI",
+        "SN",
+        "CM",
+        "BF",
+        "ML",
+        "NE",
+        "TG",
+        "BJ"
+      ],
+      "dir": "ltr",
+      "script": "Latn",
+      "release_tier": "full",
+      "status": "live",
+      "pack_url": "https://cdn.sonario.pp.ua/packs/fr/pack.fr.v1.0.json.gz"
+    },
+    "de": {
+      "bcp47": "de",
+      "endonym": "Deutsch",
+      "en_name": "German",
+      "country_hints": [
+        "DE",
+        "AT",
+        "CH"
+      ],
+      "dir": "ltr",
+      "script": "Latn",
+      "release_tier": "full",
+      "status": "live",
+      "pack_url": "https://cdn.sonario.pp.ua/packs/de/pack.de.v1.0.json.gz"
+    },
+    "tr": {
+      "bcp47": "tr",
+      "endonym": "Türkçe",
+      "en_name": "Turkish",
+      "country_hints": [
+        "TR"
+      ],
+      "dir": "ltr",
+      "script": "Latn",
+      "release_tier": "full",
+      "status": "live",
+      "pack_url": "https://cdn.sonario.pp.ua/packs/tr/pack.tr.v1.0.json.gz"
+    },
+    "ko": {
+      "bcp47": "ko",
+      "endonym": "한국어",
+      "en_name": "Korean",
+      "country_hints": [
+        "KR"
+      ],
+      "dir": "ltr",
+      "script": "Hang",
+      "release_tier": "full",
+      "status": "live",
+      "pack_url": "https://cdn.sonario.pp.ua/packs/ko/pack.ko.v1.0.json.gz"
+    },
+    "ur": {
+      "bcp47": "ur",
+      "endonym": "اردو",
+      "en_name": "Urdu",
+      "country_hints": [
+        "PK"
+      ],
+      "dir": "rtl",
+      "script": "Arab",
+      "release_tier": "full",
+      "status": "live",
+      "pack_url": "https://cdn.sonario.pp.ua/packs/ur/pack.ur.v1.0.json.gz"
+    },
+    "it": {
+      "bcp47": "it",
+      "endonym": "Italiano",
+      "en_name": "Italian",
+      "country_hints": [
+        "IT"
+      ],
+      "dir": "ltr",
+      "script": "Latn",
+      "release_tier": "full",
+      "status": "live",
+      "pack_url": "https://cdn.sonario.pp.ua/packs/it/pack.it.v1.0.json.gz"
+    },
+    "th": {
+      "bcp47": "th",
+      "endonym": "ไทย",
+      "en_name": "Thai",
+      "country_hints": [
+        "TH"
+      ],
+      "dir": "ltr",
+      "script": "Thai",
+      "release_tier": "full",
+      "status": "live",
+      "pack_url": "https://cdn.sonario.pp.ua/packs/th/pack.th.v1.0.json.gz"
+    },
+    "pl": {
+      "bcp47": "pl",
+      "endonym": "Polski",
+      "en_name": "Polish",
+      "country_hints": [
+        "PL"
+      ],
+      "dir": "ltr",
+      "script": "Latn",
+      "release_tier": "full",
+      "status": "live",
+      "pack_url": "https://cdn.sonario.pp.ua/packs/pl/pack.pl.v1.0.json.gz"
+    },
+    "uk": {
+      "bcp47": "uk",
+      "endonym": "Українська",
+      "en_name": "Ukrainian",
+      "country_hints": [
+        "UA"
+      ],
+      "dir": "ltr",
+      "script": "Cyrl",
+      "release_tier": "full",
+      "status": "live",
+      "pack_url": "https://cdn.sonario.pp.ua/packs/uk/pack.uk.v1.0.json.gz"
+    },
+    "nl": {
+      "bcp47": "nl",
+      "endonym": "Nederlands",
+      "en_name": "Dutch",
+      "country_hints": [
+        "NL",
+        "BE"
+      ],
+      "dir": "ltr",
+      "script": "Latn",
+      "release_tier": "full",
+      "status": "live",
+      "pack_url": "https://cdn.sonario.pp.ua/packs/nl/pack.nl.v1.0.json.gz"
+    },
+    "sw": {
+      "bcp47": "sw",
+      "endonym": "Kiswahili",
+      "en_name": "Swahili",
+      "country_hints": [
+        "TZ",
+        "KE",
+        "UG"
+      ],
+      "dir": "ltr",
+      "script": "Latn",
+      "release_tier": "full",
+      "status": "live",
+      "pack_url": "https://cdn.sonario.pp.ua/packs/sw/pack.sw.v1.0.json.gz"
+    },
+    "fil": {
+      "bcp47": "fil",
+      "endonym": "Filipino",
+      "en_name": "Filipino (Tagalog)",
+      "country_hints": [
+        "PH"
+      ],
+      "dir": "ltr",
+      "script": "Latn",
+      "release_tier": "full",
+      "status": "live",
+      "pack_url": "https://cdn.sonario.pp.ua/packs/fil/pack.fil.v1.0.json.gz"
+    },
+    "zh-Hant": {
+      "bcp47": "zh-Hant",
+      "endonym": "繁體中文",
+      "en_name": "Chinese (Traditional)",
+      "country_hints": [
+        "TW",
+        "HK",
+        "MO"
+      ],
+      "dir": "ltr",
+      "script": "Hant",
+      "release_tier": "full",
+      "status": "queued_w5",
+      "pack_url": "https://cdn.sonario.pp.ua/packs/zh-Hant/pack.zh-Hant.v1.0.json.gz"
+    },
+    "pa-Arab": {
+      "bcp47": "pa-Arab",
+      "endonym": "پنجابی (شاہ مکھی)",
+      "en_name": "Punjabi (Shahmukhi)",
+      "country_hints": [
+        "PK"
+      ],
+      "dir": "rtl",
+      "script": "Arab",
+      "release_tier": "full",
+      "status": "queued_w3",
+      "pack_url": "https://cdn.sonario.pp.ua/packs/pa-Arab/pack.pa-Arab.v1.0.json.gz"
+    },
+    "pcm": {
+      "bcp47": "pcm",
+      "endonym": "Naijá (Nigerian Pidgin)",
+      "en_name": "Nigerian Pidgin",
+      "country_hints": [
+        "NG"
+      ],
+      "dir": "ltr",
+      "script": "Latn",
+      "release_tier": "lite_beta",
+      "status": "queued_w11",
+      "pack_url": "https://cdn.sonario.pp.ua/packs/pcm/pack.pcm.v1.0.json.gz"
+    }
+  }
+}

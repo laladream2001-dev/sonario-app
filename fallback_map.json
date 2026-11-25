@@ -1,0 +1,120 @@
+{
+  "schema_version": "1.0",
+  "mappings": {
+    "jv": {
+      "target": "id",
+      "origin_endonym": "Basa Jawa",
+      "notice": "Sonario menampilkan penjelasan dalam Bahasa Indonesia agar Anda bisa langsung belajar (paket Basa Jawa segera hadir)."
+    },
+    "su": {
+      "target": "id",
+      "origin_endonym": "Basa Sunda",
+      "notice": "Sonario menampilkan penjelasan dalam Bahasa Indonesia agar Anda bisa langsung belajar (paket Basa Sunda segera hadir)."
+    },
+    "mad": {
+      "target": "id",
+      "origin_endonym": "Bhâsa Madhurâ",
+      "notice": "Sonario menampilkan penjelasan dalam Bahasa Indonesia agar Anda bisa langsung belajar."
+    },
+    "bho": {
+      "target": "hi",
+      "origin_endonym": "भोजपुरी",
+      "notice": "तुरंत सीखना शुरू करने के लिए सोनारियो हिन्दी में व्याख्या दिखा रहा है।"
+    },
+    "raj": {
+      "target": "hi",
+      "origin_endonym": "राजस्थानी",
+      "notice": "तुरंत सीखना शुरू करने के लिए सोनारियो हिन्दी में व्याख्या दिखा रहा है।"
+    },
+    "mai": {
+      "target": "hi",
+      "origin_endonym": "मैथिली",
+      "notice": "तुरंत सीखना शुरू करने के लिए सोनारियो हिन्दी में व्याख्या दिखा रहा है।"
+    },
+    "hne": {
+      "target": "hi",
+      "origin_endonym": "छत्तीसगढ़ी",
+      "notice": "तुरंत सीखना शुरू करने के लिए सोनारियो हिन्दी में व्याख्या दिखा रहा है।"
+    },
+    "awa": {
+      "target": "hi",
+      "origin_endonym": "अवधी",
+      "notice": "तुरंत सीखना शुरू करने के लिए सोनारियो हिन्दी में व्याख्या दिखा रहा है।"
+    },
+    "wuu": {
+      "target": "zh-Hans",
+      "origin_endonym": "吴语",
+      "notice": "Sonario 当前以简体中文显示解析，方便您立即开始学习。"
+    },
+    "nan": {
+      "target": "zh-Hans",
+      "origin_endonym": "闽南语",
+      "notice": "Sonario 当前以简体中文显示解析，方便您立即开始学习。"
+    },
+    "hak": {
+      "target": "zh-Hans",
+      "origin_endonym": "客家话",
+      "notice": "Sonario 当前以简体中文显示解析，方便您立即开始学习。"
+    },
+    "yue-CN": {
+      "target": "zh-Hans",
+      "origin_endonym": "粤语",
+      "notice": "Sonario 当前以简体中文显示解析，方便您立即开始学习。"
+    },
+    "yue-HK": {
+      "target": "zh-Hant",
+      "origin_endonym": "粵語",
+      "notice": "Sonario 目前以繁體中文顯示解析，方便您立即開始學習。"
+    },
+    "yue-MO": {
+      "target": "zh-Hant",
+      "origin_endonym": "粵語",
+      "notice": "Sonario 目前以繁體中文顯示解析，方便您立即開始學習。"
+    },
+    "ceb": {
+      "target": "fil",
+      "origin_endonym": "Cebuano",
+      "notice": "Ipinapakita ng Sonario ang paliwanag sa Filipino upang makapagsimula ka agad."
+    },
+    "ilo": {
+      "target": "fil",
+      "origin_endonym": "Ilokano",
+      "notice": "Ipinapakita ng Sonario ang paliwanag sa Filipino upang makapagsimula ka agad."
+    },
+    "hil": {
+      "target": "fil",
+      "origin_endonym": "Hiligaynon",
+      "notice": "Ipinapakita ng Sonario ang paliwanag sa Filipino upang makapagsimula ka agad."
+    },
+    "war": {
+      "target": "fil",
+      "origin_endonym": "Waray",
+      "notice": "Ipinapakita ng Sonario ang paliwanag sa Filipino upang makapagsimula ka agad."
+    },
+    "ca": {
+      "target": "es",
+      "origin_endonym": "Català",
+      "notice": "Sonario muestra las explicaciones en Español para que puedas empezar a aprender de inmediato."
+    },
+    "gl": {
+      "target": "es",
+      "origin_endonym": "Galego",
+      "notice": "Sonario muestra las explicaciones en Español para que puedas empezar a aprender de inmediato."
+    },
+    "eu": {
+      "target": "es",
+      "origin_endonym": "Euskara",
+      "notice": "Sonario muestra las explicaciones en Español para que puedas empezar a aprender de inmediato."
+    },
+    "be": {
+      "target": "ru",
+      "origin_endonym": "Беларуская",
+      "notice": "Sonario показывает пояснения на русском языке, чтобы вы могли начать обучение прямо сейчас."
+    },
+    "tl": {
+      "target": "fil",
+      "origin_endonym": "Tagalog",
+      "notice": ""
+    }
+  }
+}

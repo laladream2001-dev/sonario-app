@@ -1,0 +1,2428 @@
+{
+  "lang": "vi",
+  "version": "1.0",
+  "release_tier": "full",
+  "dir": "ltr",
+  "script": "Latn",
+  "cdn_origin": "https://cdn.sonario.pp.ua",
+  "ui": {
+    "app_title": "Sonario — Học tiếng Anh tự nhiên",
+    "continue_where_left": "TIẾP TỤC ĐÚNG CHỖ BẠN ĐÃ DỪNG",
+    "resume_lesson": "Học tiếp bài đang mở",
+    "todays_plan": "Kế hoạch hôm nay",
+    "grammar_lesson_task": "Bài học ngữ pháp",
+    "words_with_scenes_task": "10 từ mới kèm cảnh sống động",
+    "cards_to_review_task": "12 thẻ cần ôn hôm nay",
+    "learning_streak": "chuỗi ngày học",
+    "words_learned": "từ đã thuộc",
+    "grammar_journey": "Hành trình Ngữ pháp của bạn",
+    "rule_plain_words": "Quy tắc dễ hiểu (Luôn song ngữ)",
+    "listen_repeat": "NGHE & ĐỌC THEO (NHẤN CÂU ĐỂ XEM DỊCH · ▶ ĐỂ NGHE)",
+    "still_learning": "Đang học",
+    "i_know_this": "Đã thuộc ✓",
+    "complete_sentence": "ĐIỀN TỪ VÀO CÂU",
+    "show_answer": "Xem đáp án (Enter)",
+    "how_hard_was_it": "MỨC ĐỘ NHỚ CỦA BẠN?",
+    "again": "Quên",
+    "hard": "Khó",
+    "good": "Được",
+    "easy": "Dễ",
+    "saved_on_device": "Tự động lưu trên thiết bị này",
+    "no_account_desc": "Không cần tài khoản, không mật khẩu. Đóng app bất cứ lúc nào — mở lại là học tiếp đúng chỗ đã dừng.",
+    "appearance": "Giao diện & Bảng màu",
+    "family_licence": "Giấy phép Gia đình (189.000đ trọn đời)",
+    "settings": "Cài đặt hiển thị, giọng đọc & khoá phụ huynh",
+    "go_to": "Chuyển tới…"
+  },
+  "words": [
+    {
+      "id": "w_0061",
+      "word_num": 61,
+      "scene_id": "v_0061",
+      "tier": "core",
+      "word": "harvest",
+      "pos": "noun · verb",
+      "cefr": "A2",
+      "ipa": "/ˈhɑː.vɪst/",
+      "ipa_uk": "/ˈhɑː.vɪst/",
+      "def_en": "to collect crops when they are ready; the crops collected",
+      "gloss": "thu hoạch; vụ mùa",
+      "freq_rank": 61,
+      "value_theme_code": "community_solidarity",
+      "example_en": "The whole village helps with the harvest in September.",
+      "example_tr": "Cả làng cùng giúp nhau gặt lúa vào tháng Chín.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0061.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0061_s1.opus",
+      "media": {
+        "scene_id": "v_0061",
+        "state": "video_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0061.jpg",
+        "video": "https://cdn.sonario.pp.ua/media/video-480p/clips/v_0061.mp4",
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0061.opus"
+      }
+    },
+    {
+      "id": "w_0062",
+      "word_num": 62,
+      "scene_id": "v_0062",
+      "tier": "core",
+      "word": "kindness",
+      "pos": "noun",
+      "cefr": "A2",
+      "ipa": "/ˈkaɪnd.nəs/",
+      "ipa_uk": "/ˈkaɪnd.nəs/",
+      "def_en": "the quality of being friendly, generous, and considerate to others",
+      "gloss": "lòng tốt, sự tử tế",
+      "freq_rank": 62,
+      "value_theme_code": "non_violence",
+      "example_en": "Small acts of kindness make every neighborhood feel safer.",
+      "example_tr": "Những hành động tử tế nhỏ bé giúp mọi khu phố trở nên an toàn hơn.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0062.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0062_s1.opus",
+      "media": {
+        "scene_id": "v_0062",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0062.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0062.opus"
+      }
+    },
+    {
+      "id": "w_0063",
+      "word_num": 63,
+      "scene_id": "v_0063",
+      "tier": "core",
+      "word": "schedule",
+      "pos": "noun · verb",
+      "cefr": "A2",
+      "ipa": "/ˈʃedʒ.uːl/",
+      "ipa_uk": "/ˈʃedʒ.uːl/",
+      "def_en": "a plan that lists times when things are intended to happen",
+      "gloss": "lịch trình, thời gian biểu",
+      "freq_rank": 63,
+      "value_theme_code": "honesty_responsibility",
+      "example_en": "We need to check the train schedule before leaving home.",
+      "example_tr": "Chúng ta cần kiểm tra lịch tàu chạy trước khi rời nhà.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0063.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0063_s1.opus",
+      "media": {
+        "scene_id": "v_0063",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0063.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0063.opus"
+      }
+    },
+    {
+      "id": "w_0001",
+      "word_num": 1,
+      "scene_id": "v_0001",
+      "tier": "core",
+      "word": "the",
+      "pos": "determiner",
+      "cefr": "A1",
+      "ipa": "/ðə/",
+      "ipa_uk": "/ðə/",
+      "def_en": "specific thing or person",
+      "gloss": "cái, con, người (xác định)",
+      "freq_rank": 1,
+      "value_theme_code": "care_nature",
+      "example_en": "The river behind our house is clean today.",
+      "example_tr": "Con sông sau nhà chúng tôi hôm nay rất sạch.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0001.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0001_s1.opus",
+      "media": {
+        "scene_id": "v_0001",
+        "state": "video_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0001.jpg",
+        "video": "https://cdn.sonario.pp.ua/media/video-480p/clips/v_0001.mp4",
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0001.opus"
+      }
+    },
+    {
+      "id": "w_0002",
+      "word_num": 2,
+      "scene_id": "v_0002",
+      "tier": "core",
+      "word": "be",
+      "pos": "verb",
+      "cefr": "A1",
+      "ipa": "/biː/",
+      "ipa_uk": "/biː/",
+      "def_en": "exist or have a quality",
+      "gloss": "thì, là, ở",
+      "freq_rank": 2,
+      "value_theme_code": "non_violence",
+      "example_en": "Please be kind to your little brother.",
+      "example_tr": "Hãy dịu dàng với em trai của con nhé.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0002.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0002_s1.opus",
+      "media": {
+        "scene_id": "v_0002",
+        "state": "video_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0002.jpg",
+        "video": "https://cdn.sonario.pp.ua/media/video-480p/clips/v_0002.mp4",
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0002.opus"
+      }
+    },
+    {
+      "id": "w_0003",
+      "word_num": 3,
+      "scene_id": "v_0003",
+      "tier": "core",
+      "word": "and",
+      "pos": "conjunction",
+      "cefr": "A1",
+      "ipa": "/ænd/",
+      "ipa_uk": "/ænd/",
+      "def_en": "joins words or ideas",
+      "gloss": "và",
+      "freq_rank": 3,
+      "value_theme_code": "respect_differences",
+      "example_en": "Lan and Tom share lunch at school.",
+      "example_tr": "Lan và Tom cùng chia sẻ bữa trưa ở trường.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0003.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0003_s1.opus",
+      "media": {
+        "scene_id": "v_0003",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0003.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0003.opus"
+      }
+    },
+    {
+      "id": "w_0004",
+      "word_num": 4,
+      "scene_id": "v_0004",
+      "tier": "core",
+      "word": "of",
+      "pos": "preposition",
+      "cefr": "A1",
+      "ipa": "/ʌv/",
+      "ipa_uk": "/ɒv/",
+      "def_en": "belonging to or made of",
+      "gloss": "của",
+      "freq_rank": 4,
+      "value_theme_code": "anti_knowledge_monopoly",
+      "example_en": "I read a page of this free book.",
+      "example_tr": "Tôi đọc một trang của cuốn sách miễn phí này.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0004.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0004_s1.opus",
+      "media": {
+        "scene_id": "v_0004",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0004.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0004.opus"
+      }
+    },
+    {
+      "id": "w_0005",
+      "word_num": 5,
+      "scene_id": "v_0005",
+      "tier": "core",
+      "word": "to",
+      "pos": "preposition",
+      "cefr": "A1",
+      "ipa": "/tuː/",
+      "ipa_uk": "/tuː/",
+      "def_en": "moving toward a place",
+      "gloss": "đến, tới",
+      "freq_rank": 5,
+      "value_theme_code": "lifelong_learning",
+      "example_en": "We walk to the town library every Sunday.",
+      "example_tr": "Chúng tôi đi bộ tới thư viện thị trấn mỗi Chủ nhật.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0005.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0005_s1.opus",
+      "media": {
+        "scene_id": "v_0005",
+        "state": "video_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0005.jpg",
+        "video": "https://cdn.sonario.pp.ua/media/video-480p/clips/v_0005.mp4",
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0005.opus"
+      }
+    },
+    {
+      "id": "w_0006",
+      "word_num": 6,
+      "scene_id": "v_0006",
+      "tier": "core",
+      "word": "a",
+      "pos": "determiner",
+      "cefr": "A1",
+      "ipa": "/ə/",
+      "ipa_uk": "/ə/",
+      "def_en": "one single item",
+      "gloss": "một (trước phụ âm)",
+      "freq_rank": 6,
+      "value_theme_code": "animal_welfare",
+      "example_en": "This is a small bird in the tree.",
+      "example_tr": "Kia là một chú chim nhỏ ở trên cây.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0006.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0006_s1.opus",
+      "media": {
+        "scene_id": "v_0006",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0006.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0006.opus"
+      }
+    },
+    {
+      "id": "w_0007",
+      "word_num": 7,
+      "scene_id": "v_0007",
+      "tier": "core",
+      "word": "in",
+      "pos": "preposition",
+      "cefr": "A1",
+      "ipa": "/ɪn/",
+      "ipa_uk": "/ɪn/",
+      "def_en": "inside a place or space",
+      "gloss": "ở trong",
+      "freq_rank": 7,
+      "value_theme_code": "self_reliance",
+      "example_en": "I grow fresh herbs in my yard.",
+      "example_tr": "Tôi tự trồng rau thơm tươi trong sân nhà mình.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0007.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0007_s1.opus",
+      "media": {
+        "scene_id": "v_0007",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0007.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0007.opus"
+      }
+    },
+    {
+      "id": "w_0008",
+      "word_num": 8,
+      "scene_id": "v_0008",
+      "tier": "core",
+      "word": "have",
+      "pos": "verb",
+      "cefr": "A1",
+      "ipa": "/hæv/",
+      "ipa_uk": "/hæv/",
+      "def_en": "own or hold",
+      "gloss": "có",
+      "freq_rank": 8,
+      "value_theme_code": "equal_opportunity",
+      "example_en": "All kids here have clean books to read.",
+      "example_tr": "Mọi đứa trẻ ở đây đều có sách sạch đẹp để đọc.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0008.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0008_s1.opus",
+      "media": {
+        "scene_id": "v_0008",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0008.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0008.opus"
+      }
+    },
+    {
+      "id": "w_0009",
+      "word_num": 9,
+      "scene_id": "v_0009",
+      "tier": "core",
+      "word": "it",
+      "pos": "pronoun",
+      "cefr": "A1",
+      "ipa": "/ɪt/",
+      "ipa_uk": "/ɪt/",
+      "def_en": "a thing or animal",
+      "gloss": "nó (vật, việc)",
+      "freq_rank": 9,
+      "value_theme_code": "invention_history",
+      "example_en": "This old clock still works, and I love it.",
+      "example_tr": "Chiếc đồng hồ cũ này vẫn chạy tốt, và tôi rất thích nó.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0009.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0009_s1.opus",
+      "media": {
+        "scene_id": "v_0009",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0009.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0009.opus"
+      }
+    },
+    {
+      "id": "w_0010",
+      "word_num": 10,
+      "scene_id": "v_0010",
+      "tier": "core",
+      "word": "you",
+      "pos": "pronoun",
+      "cefr": "A1",
+      "ipa": "/juː/",
+      "ipa_uk": "/juː/",
+      "def_en": "the person spoken to",
+      "gloss": "bạn, các bạn",
+      "freq_rank": 10,
+      "value_theme_code": "privacy",
+      "example_en": "You can keep your notebook in your own bag.",
+      "example_tr": "Bạn cứ giữ cuốn sổ tay trong túi riêng của bạn nhé.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0010.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0010_s1.opus",
+      "media": {
+        "scene_id": "v_0010",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0010.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0010.opus"
+      }
+    },
+    {
+      "id": "w_0011",
+      "word_num": 11,
+      "scene_id": "v_0011",
+      "tier": "core",
+      "word": "he",
+      "pos": "pronoun",
+      "cefr": "A1",
+      "ipa": "/hiː/",
+      "ipa_uk": "/hiː/",
+      "def_en": "a male person",
+      "gloss": "anh ấy, ông ấy",
+      "freq_rank": 11,
+      "value_theme_code": "honesty_responsibility",
+      "example_en": "He found a lost key and gave it back.",
+      "example_tr": "Anh ấy nhặt được chiếc chìa khóa rơi và đã trả lại.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0011.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0011_s1.opus",
+      "media": {
+        "scene_id": "v_0011",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0011.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0011.opus"
+      }
+    },
+    {
+      "id": "w_0012",
+      "word_num": 12,
+      "scene_id": "v_0012",
+      "tier": "core",
+      "word": "for",
+      "pos": "preposition",
+      "cefr": "A1",
+      "ipa": "/fɔːr/",
+      "ipa_uk": "/fɔː/",
+      "def_en": "intended for someone",
+      "gloss": "cho, dành cho",
+      "freq_rank": 12,
+      "value_theme_code": "democracy_civics",
+      "example_en": "We clean the street for our whole village.",
+      "example_tr": "Chúng tôi quét dọn con đường cho cả ngôi làng của mình.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0012.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0012_s1.opus",
+      "media": {
+        "scene_id": "v_0012",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0012.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0012.opus"
+      }
+    },
+    {
+      "id": "w_0013",
+      "word_num": 13,
+      "scene_id": "v_0013",
+      "tier": "core",
+      "word": "they",
+      "pos": "pronoun",
+      "cefr": "A1",
+      "ipa": "/ðeɪ/",
+      "ipa_uk": "/ðeɪ/",
+      "def_en": "more than one person",
+      "gloss": "họ, chúng",
+      "freq_rank": 13,
+      "value_theme_code": "expression",
+      "example_en": "They sing happy songs on the porch.",
+      "example_tr": "Họ cùng hát những bài ca vui vẻ ngoài hiên nhà.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0013.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0013_s1.opus",
+      "media": {
+        "scene_id": "v_0013",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0013.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0013.opus"
+      }
+    },
+    {
+      "id": "w_0014",
+      "word_num": 14,
+      "scene_id": "v_0014",
+      "tier": "core",
+      "word": "not",
+      "pos": "adv",
+      "cefr": "A1",
+      "ipa": "/nɑːt/",
+      "ipa_uk": "/nɒt/",
+      "def_en": "used to say no",
+      "gloss": "không",
+      "freq_rank": 14,
+      "value_theme_code": "privacy",
+      "example_en": "Do not read my private letter, please.",
+      "example_tr": "Xin đừng đọc bức thư riêng của tôi nhé.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0014.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0014_s1.opus",
+      "media": {
+        "scene_id": "v_0014",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0014.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0014.opus"
+      }
+    },
+    {
+      "id": "w_0015",
+      "word_num": 15,
+      "scene_id": "v_0015",
+      "tier": "core",
+      "word": "that",
+      "pos": "determiner",
+      "cefr": "A1",
+      "ipa": "/ðæt/",
+      "ipa_uk": "/ðæt/",
+      "def_en": "something farther away",
+      "gloss": "đó, kia",
+      "freq_rank": 15,
+      "value_theme_code": "science_tech",
+      "example_en": "That solar lamp shines all night long.",
+      "example_tr": "Chiếc đèn năng lượng mặt trời kia sáng suốt cả đêm.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0015.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0015_s1.opus",
+      "media": {
+        "scene_id": "v_0015",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0015.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0015.opus"
+      }
+    },
+    {
+      "id": "w_0016",
+      "word_num": 16,
+      "scene_id": "v_0016",
+      "tier": "core",
+      "word": "we",
+      "pos": "pronoun",
+      "cefr": "A1",
+      "ipa": "/wiː/",
+      "ipa_uk": "/wiː/",
+      "def_en": "you and I together",
+      "gloss": "chúng tôi, chúng ta",
+      "freq_rank": 16,
+      "value_theme_code": "democracy_civics",
+      "example_en": "We vote together to pick the class leader.",
+      "example_tr": "Chúng ta cùng bỏ phiếu chọn lớp trưởng.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0016.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0016_s1.opus",
+      "media": {
+        "scene_id": "v_0016",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0016.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0016.opus"
+      }
+    },
+    {
+      "id": "w_0017",
+      "word_num": 17,
+      "scene_id": "v_0017",
+      "tier": "core",
+      "word": "on",
+      "pos": "preposition",
+      "cefr": "A1",
+      "ipa": "/ɑːn/",
+      "ipa_uk": "/ɒn/",
+      "def_en": "touching a surface",
+      "gloss": "ở trên",
+      "freq_rank": 17,
+      "value_theme_code": "expression",
+      "example_en": "She draws bright flowers on the paper.",
+      "example_tr": "Cô ấy vẽ những bông hoa tươi sáng trên tờ giấy.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0017.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0017_s1.opus",
+      "media": {
+        "scene_id": "v_0017",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0017.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0017.opus"
+      }
+    },
+    {
+      "id": "w_0018",
+      "word_num": 18,
+      "scene_id": "v_0018",
+      "tier": "core",
+      "word": "with",
+      "pos": "preposition",
+      "cefr": "A1",
+      "ipa": "/wɪð/",
+      "ipa_uk": "/wɪð/",
+      "def_en": "together or using",
+      "gloss": "cùng với, bằng",
+      "freq_rank": 18,
+      "value_theme_code": "self_reliance",
+      "example_en": "I fix my bike with a small wrench.",
+      "example_tr": "Tôi tự sửa xe đạp của mình bằng chiếc cờ lê nhỏ.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0018.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0018_s1.opus",
+      "media": {
+        "scene_id": "v_0018",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0018.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0018.opus"
+      }
+    },
+    {
+      "id": "w_0019",
+      "word_num": 19,
+      "scene_id": "v_0019",
+      "tier": "core",
+      "word": "this",
+      "pos": "determiner",
+      "cefr": "A1",
+      "ipa": "/ðɪs/",
+      "ipa_uk": "/ðɪs/",
+      "def_en": "something near you",
+      "gloss": "này, đây",
+      "freq_rank": 19,
+      "value_theme_code": "care_nature",
+      "example_en": "This young tree needs water in the morning.",
+      "example_tr": "Cây non này cần được tưới nước vào buổi sáng.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0019.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0019_s1.opus",
+      "media": {
+        "scene_id": "v_0019",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0019.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0019.opus"
+      }
+    },
+    {
+      "id": "w_0020",
+      "word_num": 20,
+      "scene_id": "v_0020",
+      "tier": "core",
+      "word": "I",
+      "pos": "pronoun",
+      "cefr": "A1",
+      "ipa": "/aɪ/",
+      "ipa_uk": "/aɪ/",
+      "def_en": "the speaker",
+      "gloss": "tôi, mình",
+      "freq_rank": 20,
+      "value_theme_code": "lifelong_learning",
+      "example_en": "I study ten English words before breakfast.",
+      "example_tr": "Tôi học mười từ tiếng Anh trước bữa sáng.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0020.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0020_s1.opus",
+      "media": {
+        "scene_id": "v_0020",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0020.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0020.opus"
+      }
+    },
+    {
+      "id": "w_0021",
+      "word_num": 21,
+      "scene_id": "v_0021",
+      "tier": "core",
+      "word": "do",
+      "pos": "verb",
+      "cefr": "A1",
+      "ipa": "/duː/",
+      "ipa_uk": "/duː/",
+      "def_en": "perform an action",
+      "gloss": "làm, thực hiện",
+      "freq_rank": 21,
+      "value_theme_code": "honesty_responsibility",
+      "example_en": "I always do my own homework first.",
+      "example_tr": "Tôi luôn tự làm xong bài tập của mình trước.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0021.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0021_s1.opus",
+      "media": {
+        "scene_id": "v_0021",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0021.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0021.opus"
+      }
+    },
+    {
+      "id": "w_0022",
+      "word_num": 22,
+      "scene_id": "v_0022",
+      "tier": "core",
+      "word": "as",
+      "pos": "preposition",
+      "cefr": "A1",
+      "ipa": "/æz/",
+      "ipa_uk": "/æz/",
+      "def_en": "in the role of",
+      "gloss": "như là, với vai trò",
+      "freq_rank": 22,
+      "value_theme_code": "equal_opportunity",
+      "example_en": "My sister works as a science teacher.",
+      "example_tr": "Chị gái tôi làm việc với vai trò giáo viên khoa học.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0022.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0022_s1.opus",
+      "media": {
+        "scene_id": "v_0022",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0022.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0022.opus"
+      }
+    },
+    {
+      "id": "w_0023",
+      "word_num": 23,
+      "scene_id": "v_0023",
+      "tier": "core",
+      "word": "at",
+      "pos": "preposition",
+      "cefr": "A1",
+      "ipa": "/æt/",
+      "ipa_uk": "/æt/",
+      "def_en": "at a place or time",
+      "gloss": "ở, tại, vào lúc",
+      "freq_rank": 23,
+      "value_theme_code": "animal_welfare",
+      "example_en": "Look at the cat sleeping in the warm sun.",
+      "example_tr": "Nhìn chú mèo đang ngủ dưới nắng ấm kìa.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0023.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0023_s1.opus",
+      "media": {
+        "scene_id": "v_0023",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0023.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0023.opus"
+      }
+    },
+    {
+      "id": "w_0024",
+      "word_num": 24,
+      "scene_id": "v_0024",
+      "tier": "core",
+      "word": "she",
+      "pos": "pronoun",
+      "cefr": "A1",
+      "ipa": "/ʃiː/",
+      "ipa_uk": "/ʃiː/",
+      "def_en": "a female person",
+      "gloss": "cô ấy, chị ấy",
+      "freq_rank": 24,
+      "value_theme_code": "freedom",
+      "example_en": "She chooses her own path with a big smile.",
+      "example_tr": "Cô ấy tự chọn con đường của mình với nụ cười rạng rỡ.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0024.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0024_s1.opus",
+      "media": {
+        "scene_id": "v_0024",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0024.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0024.opus"
+      }
+    },
+    {
+      "id": "w_0025",
+      "word_num": 25,
+      "scene_id": "v_0025",
+      "tier": "core",
+      "word": "but",
+      "pos": "conjunction",
+      "cefr": "A1",
+      "ipa": "/bʌt/",
+      "ipa_uk": "/bʌt/",
+      "def_en": "shows a contrast",
+      "gloss": "nhưng",
+      "freq_rank": 25,
+      "value_theme_code": "respect_differences",
+      "example_en": "We like different foods, but we eat together.",
+      "example_tr": "Chúng tôi thích món khác nhau nhưng vẫn ăn chung vui vẻ.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0025.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0025_s1.opus",
+      "media": {
+        "scene_id": "v_0025",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0025.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0025.opus"
+      }
+    },
+    {
+      "id": "w_0026",
+      "word_num": 26,
+      "scene_id": "v_0026",
+      "tier": "core",
+      "word": "from",
+      "pos": "preposition",
+      "cefr": "A1",
+      "ipa": "/frʌm/",
+      "ipa_uk": "/frɒm/",
+      "def_en": "starting point or source",
+      "gloss": "từ",
+      "freq_rank": 26,
+      "value_theme_code": "anti_knowledge_monopoly",
+      "example_en": "You can learn a lot from open websites.",
+      "example_tr": "Bạn có thể học được rất nhiều từ các trang web mở.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0026.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0026_s1.opus",
+      "media": {
+        "scene_id": "v_0026",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0026.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0026.opus"
+      }
+    },
+    {
+      "id": "w_0027",
+      "word_num": 27,
+      "scene_id": "v_0027",
+      "tier": "core",
+      "word": "by",
+      "pos": "preposition",
+      "cefr": "A1",
+      "ipa": "/baɪ/",
+      "ipa_uk": "/baɪ/",
+      "def_en": "near or by means of",
+      "gloss": "bằng, bên cạnh",
+      "freq_rank": 27,
+      "value_theme_code": "freedom",
+      "example_en": "I go to town by bike on sunny days.",
+      "example_tr": "Tôi đạp xe ra thị trấn vào những ngày nắng.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0027.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0027_s1.opus",
+      "media": {
+        "scene_id": "v_0027",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0027.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0027.opus"
+      }
+    },
+    {
+      "id": "w_0028",
+      "word_num": 28,
+      "scene_id": "v_0028",
+      "tier": "core",
+      "word": "will",
+      "pos": "auxiliary",
+      "cefr": "A1",
+      "ipa": "/wɪl/",
+      "ipa_uk": "/wɪl/",
+      "def_en": "shows future time",
+      "gloss": "sẽ",
+      "freq_rank": 28,
+      "value_theme_code": "non_violence",
+      "example_en": "We will talk calmly and solve this soon.",
+      "example_tr": "Chúng ta sẽ nói chuyện bình tĩnh và giải quyết sớm thôi.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0028.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0028_s1.opus",
+      "media": {
+        "scene_id": "v_0028",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0028.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0028.opus"
+      }
+    },
+    {
+      "id": "w_0029",
+      "word_num": 29,
+      "scene_id": "v_0029",
+      "tier": "core",
+      "word": "or",
+      "pos": "conjunction",
+      "cefr": "A1",
+      "ipa": "/ɔːr/",
+      "ipa_uk": "/ɔː/",
+      "def_en": "gives a choice",
+      "gloss": "hoặc, hay là",
+      "freq_rank": 29,
+      "value_theme_code": "freedom",
+      "example_en": "Do you want green tea or cool water?",
+      "example_tr": "Bạn muốn uống trà xanh hay nước mát?",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0029.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0029_s1.opus",
+      "media": {
+        "scene_id": "v_0029",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0029.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0029.opus"
+      }
+    },
+    {
+      "id": "w_0030",
+      "word_num": 30,
+      "scene_id": "v_0030",
+      "tier": "core",
+      "word": "say",
+      "pos": "verb",
+      "cefr": "A1",
+      "ipa": "/seɪ/",
+      "ipa_uk": "/seɪ/",
+      "def_en": "speak words",
+      "gloss": "nói",
+      "freq_rank": 30,
+      "value_theme_code": "honesty_responsibility",
+      "example_en": "Please say the truth even when it is hard.",
+      "example_tr": "Xin hãy nói sự thật ngay cả khi điều đó khó khăn.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0030.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0030_s1.opus",
+      "media": {
+        "scene_id": "v_0030",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0030.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0030.opus"
+      }
+    },
+    {
+      "id": "w_0031",
+      "word_num": 31,
+      "scene_id": "v_0031",
+      "tier": "core",
+      "word": "go",
+      "pos": "verb",
+      "cefr": "A1",
+      "ipa": "/ɡoʊ/",
+      "ipa_uk": "/ɡəʊ/",
+      "def_en": "move to a place",
+      "gloss": "đi",
+      "freq_rank": 31,
+      "value_theme_code": "care_nature",
+      "example_en": "Let us go pick up trash near the beach.",
+      "example_tr": "Chúng ta cùng đi nhặt rác gần bãi biển nhé.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0031.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0031_s1.opus",
+      "media": {
+        "scene_id": "v_0031",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0031.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0031.opus"
+      }
+    },
+    {
+      "id": "w_0032",
+      "word_num": 32,
+      "scene_id": "v_0032",
+      "tier": "core",
+      "word": "so",
+      "pos": "conjunction",
+      "cefr": "A1",
+      "ipa": "/soʊ/",
+      "ipa_uk": "/səʊ/",
+      "def_en": "shows a result",
+      "gloss": "vì vậy, nên",
+      "freq_rank": 32,
+      "value_theme_code": "science_tech",
+      "example_en": "The sun is bright, so the panel charges fast.",
+      "example_tr": "Trời nắng sáng nên tấm pin sạc rất nhanh.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0032.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0032_s1.opus",
+      "media": {
+        "scene_id": "v_0032",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0032.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0032.opus"
+      }
+    },
+    {
+      "id": "w_0033",
+      "word_num": 33,
+      "scene_id": "v_0033",
+      "tier": "core",
+      "word": "all",
+      "pos": "determiner",
+      "cefr": "A1",
+      "ipa": "/ɔːl/",
+      "ipa_uk": "/ɔːl/",
+      "def_en": "every single one",
+      "gloss": "tất cả, mọi",
+      "freq_rank": 33,
+      "value_theme_code": "equal_opportunity",
+      "example_en": "All people deserve respect and clean water.",
+      "example_tr": "Mọi người đều xứng đáng được tôn trọng và có nước sạch.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0033.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0033_s1.opus",
+      "media": {
+        "scene_id": "v_0033",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0033.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0033.opus"
+      }
+    },
+    {
+      "id": "w_0034",
+      "word_num": 34,
+      "scene_id": "v_0034",
+      "tier": "core",
+      "word": "if",
+      "pos": "conjunction",
+      "cefr": "A1",
+      "ipa": "/ɪf/",
+      "ipa_uk": "/ɪf/",
+      "def_en": "on the condition that",
+      "gloss": "nếu",
+      "freq_rank": 34,
+      "value_theme_code": "non_violence",
+      "example_en": "If we listen well, nobody gets angry.",
+      "example_tr": "Nếu chúng ta lắng nghe kỹ, sẽ không ai nổi giận.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0034.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0034_s1.opus",
+      "media": {
+        "scene_id": "v_0034",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0034.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0034.opus"
+      }
+    },
+    {
+      "id": "w_0035",
+      "word_num": 35,
+      "scene_id": "v_0035",
+      "tier": "core",
+      "word": "one",
+      "pos": "number",
+      "cefr": "A1",
+      "ipa": "/wʌn/",
+      "ipa_uk": "/wʌn/",
+      "def_en": "the number 1",
+      "gloss": "một",
+      "freq_rank": 35,
+      "value_theme_code": "invention_history",
+      "example_en": "One simple wheel changed how people moved goods.",
+      "example_tr": "Chỉ một bánh xe đơn giản đã thay đổi cách con người chở hàng.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0035.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0035_s1.opus",
+      "media": {
+        "scene_id": "v_0035",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0035.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0035.opus"
+      }
+    },
+    {
+      "id": "w_0036",
+      "word_num": 36,
+      "scene_id": "v_0036",
+      "tier": "core",
+      "word": "would",
+      "pos": "auxiliary",
+      "cefr": "A1",
+      "ipa": "/wʊd/",
+      "ipa_uk": "/wʊd/",
+      "def_en": "polite request or wish",
+      "gloss": "sẽ, muốn (lịch sự)",
+      "freq_rank": 36,
+      "value_theme_code": "respect_differences",
+      "example_en": "Would you like to try our local soup?",
+      "example_tr": "Bạn có muốn thử món canh địa phương của chúng tôi không?",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0036.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0036_s1.opus",
+      "media": {
+        "scene_id": "v_0036",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0036.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0036.opus"
+      }
+    },
+    {
+      "id": "w_0037",
+      "word_num": 37,
+      "scene_id": "v_0037",
+      "tier": "core",
+      "word": "about",
+      "pos": "preposition",
+      "cefr": "A1",
+      "ipa": "/əˈbaʊt/",
+      "ipa_uk": "/əˈbaʊt/",
+      "def_en": "on the topic of",
+      "gloss": "về, khoảng",
+      "freq_rank": 37,
+      "value_theme_code": "invention_history",
+      "example_en": "Tell me about the first printing press.",
+      "example_tr": "Kể cho tôi nghe về chiếc máy in đầu tiên đi.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0037.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0037_s1.opus",
+      "media": {
+        "scene_id": "v_0037",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0037.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0037.opus"
+      }
+    },
+    {
+      "id": "w_0038",
+      "word_num": 38,
+      "scene_id": "v_0038",
+      "tier": "core",
+      "word": "can",
+      "pos": "auxiliary",
+      "cefr": "A1",
+      "ipa": "/kæn/",
+      "ipa_uk": "/kæn/",
+      "def_en": "be able to",
+      "gloss": "có thể",
+      "freq_rank": 38,
+      "value_theme_code": "self_reliance",
+      "example_en": "I can cook a warm meal by myself.",
+      "example_tr": "Tôi có thể tự nấu một bữa ăn ấm nóng.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0038.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0038_s1.opus",
+      "media": {
+        "scene_id": "v_0038",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0038.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0038.opus"
+      }
+    },
+    {
+      "id": "w_0039",
+      "word_num": 39,
+      "scene_id": "v_0039",
+      "tier": "core",
+      "word": "which",
+      "pos": "determiner",
+      "cefr": "A1",
+      "ipa": "/wɪtʃ/",
+      "ipa_uk": "/wɪtʃ/",
+      "def_en": "asking about a choice",
+      "gloss": "nào (lựa chọn)",
+      "freq_rank": 39,
+      "value_theme_code": "democracy_civics",
+      "example_en": "Which park plan did the town pick?",
+      "example_tr": "Thị trấn đã chọn phương án công viên nào vậy?",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0039.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0039_s1.opus",
+      "media": {
+        "scene_id": "v_0039",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0039.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0039.opus"
+      }
+    },
+    {
+      "id": "w_0040",
+      "word_num": 40,
+      "scene_id": "v_0040",
+      "tier": "core",
+      "word": "there",
+      "pos": "adv",
+      "cefr": "A1",
+      "ipa": "/ðer/",
+      "ipa_uk": "/ðeə/",
+      "def_en": "in that place",
+      "gloss": "ở đó, có",
+      "freq_rank": 40,
+      "value_theme_code": "animal_welfare",
+      "example_en": "There is fresh water for the ducks outside.",
+      "example_tr": "Ngoài kia có sẵn nước sạch cho đàn vịt.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0040.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0040_s1.opus",
+      "media": {
+        "scene_id": "v_0040",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0040.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0040.opus"
+      }
+    },
+    {
+      "id": "w_0041",
+      "word_num": 41,
+      "scene_id": "v_0041",
+      "tier": "core",
+      "word": "know",
+      "pos": "verb",
+      "cefr": "A1",
+      "ipa": "/noʊ/",
+      "ipa_uk": "/nəʊ/",
+      "def_en": "have knowledge of",
+      "gloss": "biết, hiểu",
+      "freq_rank": 41,
+      "value_theme_code": "lifelong_learning",
+      "example_en": "I want to know how clean batteries work.",
+      "example_tr": "Tôi muốn biết pin sạch hoạt động như thế nào.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0041.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0041_s1.opus",
+      "media": {
+        "scene_id": "v_0041",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0041.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0041.opus"
+      }
+    },
+    {
+      "id": "w_0042",
+      "word_num": 42,
+      "scene_id": "v_0042",
+      "tier": "core",
+      "word": "more",
+      "pos": "determiner",
+      "cefr": "A1",
+      "ipa": "/mɔːr/",
+      "ipa_uk": "/mɔː/",
+      "def_en": "a larger amount",
+      "gloss": "nhiều hơn, thêm",
+      "freq_rank": 42,
+      "value_theme_code": "anti_knowledge_monopoly",
+      "example_en": "We need more free books in rural schools.",
+      "example_tr": "Chúng ta cần thêm nhiều sách miễn phí ở trường vùng quê.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0042.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0042_s1.opus",
+      "media": {
+        "scene_id": "v_0042",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0042.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0042.opus"
+      }
+    },
+    {
+      "id": "w_0043",
+      "word_num": 43,
+      "scene_id": "v_0043",
+      "tier": "core",
+      "word": "get",
+      "pos": "verb",
+      "cefr": "A1",
+      "ipa": "/ɡet/",
+      "ipa_uk": "/ɡet/",
+      "def_en": "receive or obtain",
+      "gloss": "nhận, lấy, có được",
+      "freq_rank": 43,
+      "value_theme_code": "equal_opportunity",
+      "example_en": "Every student can get help after class.",
+      "example_tr": "Mọi học sinh đều có thể nhận hỗ trợ sau giờ học.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0043.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0043_s1.opus",
+      "media": {
+        "scene_id": "v_0043",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0043.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0043.opus"
+      }
+    },
+    {
+      "id": "w_0044",
+      "word_num": 44,
+      "scene_id": "v_0044",
+      "tier": "core",
+      "word": "who",
+      "pos": "pronoun",
+      "cefr": "A1",
+      "ipa": "/huː/",
+      "ipa_uk": "/huː/",
+      "def_en": "asking about a person",
+      "gloss": "ai, người nào",
+      "freq_rank": 44,
+      "value_theme_code": "expression",
+      "example_en": "Who painted that bright mural on the wall?",
+      "example_tr": "Ai đã vẽ bức tranh tường tươi sáng kia thế?",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0044.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0044_s1.opus",
+      "media": {
+        "scene_id": "v_0044",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0044.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0044.opus"
+      }
+    },
+    {
+      "id": "w_0045",
+      "word_num": 45,
+      "scene_id": "v_0045",
+      "tier": "core",
+      "word": "like",
+      "pos": "verb",
+      "cefr": "A1",
+      "ipa": "/laɪk/",
+      "ipa_uk": "/laɪk/",
+      "def_en": "enjoy something",
+      "gloss": "thích",
+      "freq_rank": 45,
+      "value_theme_code": "expression",
+      "example_en": "I like writing short stories after dinner.",
+      "example_tr": "Tôi thích viết truyện ngắn sau bữa tối.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0045.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0045_s1.opus",
+      "media": {
+        "scene_id": "v_0045",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0045.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0045.opus"
+      }
+    },
+    {
+      "id": "w_0046",
+      "word_num": 46,
+      "scene_id": "v_0046",
+      "tier": "core",
+      "word": "when",
+      "pos": "conjunction",
+      "cefr": "A1",
+      "ipa": "/wen/",
+      "ipa_uk": "/wen/",
+      "def_en": "at the time that",
+      "gloss": "khi nào, lúc",
+      "freq_rank": 46,
+      "value_theme_code": "privacy",
+      "example_en": "Knock softly when you come to my room.",
+      "example_tr": "Hãy gõ cửa nhẹ khi bạn vào phòng tôi nhé.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0046.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0046_s1.opus",
+      "media": {
+        "scene_id": "v_0046",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0046.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0046.opus"
+      }
+    },
+    {
+      "id": "w_0047",
+      "word_num": 47,
+      "scene_id": "v_0047",
+      "tier": "core",
+      "word": "think",
+      "pos": "verb",
+      "cefr": "A1",
+      "ipa": "/θɪŋk/",
+      "ipa_uk": "/θɪŋk/",
+      "def_en": "use your mind",
+      "gloss": "nghĩ, suy nghĩ",
+      "freq_rank": 47,
+      "value_theme_code": "freedom",
+      "example_en": "Think for yourself before you believe a rumor.",
+      "example_tr": "Hãy tự suy nghĩ trước khi tin một lời đồn.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0047.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0047_s1.opus",
+      "media": {
+        "scene_id": "v_0047",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0047.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0047.opus"
+      }
+    },
+    {
+      "id": "w_0048",
+      "word_num": 48,
+      "scene_id": "v_0048",
+      "tier": "core",
+      "word": "make",
+      "pos": "verb",
+      "cefr": "A1",
+      "ipa": "/meɪk/",
+      "ipa_uk": "/meɪk/",
+      "def_en": "create or build",
+      "gloss": "làm, chế tạo",
+      "freq_rank": 48,
+      "value_theme_code": "self_reliance",
+      "example_en": "We make rich compost from dry leaves.",
+      "example_tr": "Chúng tôi tự làm phân ủ màu mỡ từ lá khô.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0048.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0048_s1.opus",
+      "media": {
+        "scene_id": "v_0048",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0048.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0048.opus"
+      }
+    },
+    {
+      "id": "w_0049",
+      "word_num": 49,
+      "scene_id": "v_0049",
+      "tier": "core",
+      "word": "time",
+      "pos": "noun",
+      "cefr": "A1",
+      "ipa": "/taɪm/",
+      "ipa_uk": "/taɪm/",
+      "def_en": "hours, days, or moments",
+      "gloss": "thời gian",
+      "freq_rank": 49,
+      "value_theme_code": "lifelong_learning",
+      "example_en": "Take time to review your notes every night.",
+      "example_tr": "Hãy dành thời gian xem lại ghi chú mỗi tối.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0049.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0049_s1.opus",
+      "media": {
+        "scene_id": "v_0049",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0049.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0049.opus"
+      }
+    },
+    {
+      "id": "w_0050",
+      "word_num": 50,
+      "scene_id": "v_0050",
+      "tier": "core",
+      "word": "see",
+      "pos": "verb",
+      "cefr": "A1",
+      "ipa": "/siː/",
+      "ipa_uk": "/siː/",
+      "def_en": "notice with your eyes",
+      "gloss": "thấy, nhìn thấy",
+      "freq_rank": 50,
+      "value_theme_code": "science_tech",
+      "example_en": "You can see tiny cells through this lens.",
+      "example_tr": "Bạn có thể nhìn thấy các tế bào nhỏ qua thấu kính này.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0050.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0050_s1.opus",
+      "media": {
+        "scene_id": "v_0050",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0050.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0050.opus"
+      }
+    },
+    {
+      "id": "w_0051",
+      "word_num": 51,
+      "scene_id": "v_0051",
+      "tier": "core",
+      "word": "what",
+      "pos": "pronoun",
+      "cefr": "A1",
+      "ipa": "/wʌt/",
+      "ipa_uk": "/wɒt/",
+      "def_en": "asking for information",
+      "gloss": "cái gì",
+      "freq_rank": 51,
+      "value_theme_code": "science_tech",
+      "example_en": "What makes a green leaf grow toward light?",
+      "example_tr": "Điều gì khiến chiếc lá xanh vươn về phía ánh sáng?",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0051.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0051_s1.opus",
+      "media": {
+        "scene_id": "v_0051",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0051.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0051.opus"
+      }
+    },
+    {
+      "id": "w_0052",
+      "word_num": 52,
+      "scene_id": "v_0052",
+      "tier": "core",
+      "word": "up",
+      "pos": "adv",
+      "cefr": "A1",
+      "ipa": "/ʌp/",
+      "ipa_uk": "/ʌp/",
+      "def_en": "toward a higher place",
+      "gloss": "lên, dậy",
+      "freq_rank": 52,
+      "value_theme_code": "care_nature",
+      "example_en": "Please pick up that plastic cup on the grass.",
+      "example_tr": "Làm ơn nhặt chiếc cốc nhựa trên bãi cỏ lên nhé.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0052.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0052_s1.opus",
+      "media": {
+        "scene_id": "v_0052",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0052.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0052.opus"
+      }
+    },
+    {
+      "id": "w_0053",
+      "word_num": 53,
+      "scene_id": "v_0053",
+      "tier": "core",
+      "word": "some",
+      "pos": "determiner",
+      "cefr": "A1",
+      "ipa": "/sʌm/",
+      "ipa_uk": "/sʌm/",
+      "def_en": "an amount of",
+      "gloss": "một vài, một ít",
+      "freq_rank": 53,
+      "value_theme_code": "animal_welfare",
+      "example_en": "Give the hungry puppy some warm rice.",
+      "example_tr": "Cho chú cún đang đói một ít cơm ấm nhé.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0053.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0053_s1.opus",
+      "media": {
+        "scene_id": "v_0053",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0053.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0053.opus"
+      }
+    },
+    {
+      "id": "w_0054",
+      "word_num": 54,
+      "scene_id": "v_0054",
+      "tier": "core",
+      "word": "other",
+      "pos": "adj",
+      "cefr": "A1",
+      "ipa": "/ˈʌð.ər/",
+      "ipa_uk": "/ˈʌð.ə/",
+      "def_en": "different or remaining",
+      "gloss": "khác",
+      "freq_rank": 54,
+      "value_theme_code": "respect_differences",
+      "example_en": "Listen to other people with an open heart.",
+      "example_tr": "Hãy lắng nghe người khác với tấm lòng rộng mở.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0054.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0054_s1.opus",
+      "media": {
+        "scene_id": "v_0054",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0054.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0054.opus"
+      }
+    },
+    {
+      "id": "w_0055",
+      "word_num": 55,
+      "scene_id": "v_0055",
+      "tier": "core",
+      "word": "out",
+      "pos": "adv",
+      "cefr": "A1",
+      "ipa": "/aʊt/",
+      "ipa_uk": "/aʊt/",
+      "def_en": "away from inside",
+      "gloss": "ra ngoài",
+      "freq_rank": 55,
+      "value_theme_code": "anti_knowledge_monopoly",
+      "example_en": "She prints out free maps for new visitors.",
+      "example_tr": "Cô ấy in sẵn bản đồ miễn phí cho khách mới tới.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0055.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0055_s1.opus",
+      "media": {
+        "scene_id": "v_0055",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0055.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0055.opus"
+      }
+    },
+    {
+      "id": "w_0056",
+      "word_num": 56,
+      "scene_id": "v_0056",
+      "tier": "core",
+      "word": "good",
+      "pos": "adj",
+      "cefr": "A1",
+      "ipa": "/ɡʊd/",
+      "ipa_uk": "/ɡʊd/",
+      "def_en": "kind, fine, or helpful",
+      "gloss": "tốt, hay",
+      "freq_rank": 56,
+      "value_theme_code": "honesty_responsibility",
+      "example_en": "A good friend keeps every promise.",
+      "example_tr": "Một người bạn tốt luôn giữ mọi lời hứa.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0056.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0056_s1.opus",
+      "media": {
+        "scene_id": "v_0056",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0056.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0056.opus"
+      }
+    },
+    {
+      "id": "w_0057",
+      "word_num": 57,
+      "scene_id": "v_0057",
+      "tier": "core",
+      "word": "people",
+      "pos": "noun",
+      "cefr": "A1",
+      "ipa": "/ˈpiː.pəl/",
+      "ipa_uk": "/ˈpiː.pəl/",
+      "def_en": "human beings",
+      "gloss": "mọi người, người dân",
+      "freq_rank": 57,
+      "value_theme_code": "democracy_civics",
+      "example_en": "Local people meet here to share ideas.",
+      "example_tr": "Người dân địa phương họp mặt ở đây để góp ý tưởng.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0057.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0057_s1.opus",
+      "media": {
+        "scene_id": "v_0057",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0057.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0057.opus"
+      }
+    },
+    {
+      "id": "w_0058",
+      "word_num": 58,
+      "scene_id": "v_0058",
+      "tier": "core",
+      "word": "year",
+      "pos": "noun",
+      "cefr": "A1",
+      "ipa": "/jɪr/",
+      "ipa_uk": "/jɪə/",
+      "def_en": "twelve months",
+      "gloss": "năm",
+      "freq_rank": 58,
+      "value_theme_code": "invention_history",
+      "example_en": "Every year brings safer ways to make clean power.",
+      "example_tr": "Mỗi năm lại mang tới cách tạo điện sạch an toàn hơn.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0058.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0058_s1.opus",
+      "media": {
+        "scene_id": "v_0058",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0058.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0058.opus"
+      }
+    },
+    {
+      "id": "w_0059",
+      "word_num": 59,
+      "scene_id": "v_0059",
+      "tier": "core",
+      "word": "take",
+      "pos": "verb",
+      "cefr": "A1",
+      "ipa": "/teɪk/",
+      "ipa_uk": "/teɪk/",
+      "def_en": "carry or accept",
+      "gloss": "lấy, mang, hít",
+      "freq_rank": 59,
+      "value_theme_code": "non_violence",
+      "example_en": "Take a deep breath before you answer.",
+      "example_tr": "Hãy hít một hơi thật sâu trước khi trả lời.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0059.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0059_s1.opus",
+      "media": {
+        "scene_id": "v_0059",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0059.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0059.opus"
+      }
+    },
+    {
+      "id": "w_0060",
+      "word_num": 60,
+      "scene_id": "v_0060",
+      "tier": "core",
+      "word": "no",
+      "pos": "determiner",
+      "cefr": "A1",
+      "ipa": "/noʊ/",
+      "ipa_uk": "/nəʊ/",
+      "def_en": "zero or refusal",
+      "gloss": "không, không có",
+      "freq_rank": 60,
+      "value_theme_code": "privacy",
+      "example_en": "No stranger should read your private messages.",
+      "example_tr": "Không người lạ nào nên đọc tin nhắn riêng tư của bạn.",
+      "audio_word": "https://cdn.sonario.pp.ua/media/audio-v2/words/w_0060.opus",
+      "audio_sentence": "https://cdn.sonario.pp.ua/media/audio-v2/sentences/w_0060_s1.opus",
+      "media": {
+        "scene_id": "v_0060",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/v_0060.jpg",
+        "video": null,
+        "scene_audio": "https://cdn.sonario.pp.ua/media/scene-audio/v_0060.opus"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g_01",
+      "code": "A01",
+      "stage": 1,
+      "unit_no": 1,
+      "tier": "core",
+      "title_en": "I am / you are — Introducing Yourself",
+      "title_tr": "Tôi là / Bạn là — Giới thiệu bản thân",
+      "est_minutes": 5,
+      "scene_caption": "Watch the situation · 6 seconds · a community design class in Hanoi",
+      "media": {
+        "scene_id": "g_01_hero",
+        "state": "video_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/g_01_hero.jpg",
+        "video": "https://cdn.sonario.pp.ua/media/video-480p/clips/g_01_hero.mp4"
+      },
+      "dialogue": [
+        {
+          "speaker": "Linh",
+          "side": "a",
+          "en": "Hi! I am Linh. I am from Nam Dinh.",
+          "tr": "Chào bạn! Mình là Linh. Mình đến từ Nam Định."
+        },
+        {
+          "speaker": "Minh",
+          "side": "b",
+          "en": "Nice to meet you, Linh! I am Minh, and I am from Da Nang.",
+          "tr": "Rất vui được gặp bạn, Linh! Mình là Minh, và mình đến từ Đà Nẵng."
+        },
+        {
+          "speaker": "Linh",
+          "side": "a",
+          "en": "Are you a university student here?",
+          "tr": "Bạn có phải là sinh viên đại học ở đây không?"
+        },
+        {
+          "speaker": "Minh",
+          "side": "b",
+          "en": "No, I am not a student. I am a carpenter, and I am happy to learn new skills.",
+          "tr": "Không, mình không phải sinh viên. Mình là thợ mộc, và mình rất vui khi được học kỹ năng mới."
+        }
+      ],
+      "rules_bilingual": [
+        {
+          "en": "The verb <b>be</b> changes with the subject: <b>I am</b>, <b>you/we/they are</b>, <b>he/she/it is</b>.",
+          "tr": "Động từ <b>to be</b> thay đổi theo chủ ngữ: <b>I am</b>, <b>you/we/they are</b>, <b>he/she/it is</b>."
+        },
+        {
+          "en": "Unlike Vietnamese, English requires <b>am / is / are</b> before adjectives and places too: <b>I am happy</b>, <b>We are in Hue</b>.",
+          "tr": "Khác với tiếng Việt, tiếng Anh bắt buộc có <b>am / is / are</b> trước cả tính từ và nơi chốn: <b>I am happy</b> (Tôi vui), <b>We are in Hue</b> (Chúng tôi ở Huế)."
+        },
+        {
+          "en": "For questions, move <b>Am / Is / Are</b> to the front: <b>Are you ready?</b>",
+          "tr": "Để đặt câu hỏi, đưa <b>Am / Is / Are</b> lên đầu câu: <b>Are you ready?</b>"
+        }
+      ],
+      "examples": [
+        {
+          "id": "g_01_01",
+          "en": "Hello! I am Hoa, and I am from Thanh Hoa.",
+          "tr": "Xin chào! Tôi là Hoa, và tôi đến từ Thanh Hóa.",
+          "target": "am",
+          "illus_tag": "👋 Hoa · Thanh Hoa",
+          "media_state": "image_ready"
+        },
+        {
+          "id": "g_01_02",
+          "en": "You are always welcome at our village library.",
+          "tr": "Bạn luôn được chào đón tại thư viện làng chúng tôi.",
+          "target": "are",
+          "illus_tag": "📚 Village Library",
+          "media_state": "image_ready"
+        },
+        {
+          "id": "g_01_03",
+          "en": "He is Quang. He is a nurse in Da Nang.",
+          "tr": "Anh ấy là Quang. Anh ấy là điều dưỡng ở Đà Nẵng.",
+          "target": "is",
+          "illus_tag": "🩺 Nurse Quang",
+          "media_state": "image_ready"
+        },
+        {
+          "id": "g_01_04",
+          "en": "She is Thao, and she is proud of her pottery workshop.",
+          "tr": "Cô ấy là Thảo, và cô ấy tự hào về xưởng gốm của mình.",
+          "target": "is",
+          "illus_tag": "🏺 Pottery Workshop",
+          "media_state": "image_ready"
+        },
+        {
+          "id": "g_01_05",
+          "en": "We are from different provinces, but we are equal teammates.",
+          "tr": "Chúng tôi đến từ nhiều tỉnh khác nhau, nhưng là những đồng đội bình đẳng.",
+          "target": "are",
+          "illus_tag": "🤝 Equal Teammates",
+          "media_state": "image_ready"
+        },
+        {
+          "id": "g_01_06",
+          "en": "They are evening students from Bac Ninh and Hai Duong.",
+          "tr": "Họ là học viên lớp buổi tối đến từ Bắc Ninh và Hải Dương.",
+          "target": "are",
+          "illus_tag": "🌙 Evening Class",
+          "media_state": "image_ready"
+        },
+        {
+          "id": "g_01_07",
+          "en": "I am not a doctor; I am a motorbike mechanic.",
+          "tr": "Tôi không phải bác sĩ; tôi là thợ sửa xe máy.",
+          "target": "am not",
+          "illus_tag": "🔧 Mechanic",
+          "media_state": "image_ready"
+        },
+        {
+          "id": "g_01_08",
+          "en": "Are you ready to practice English together today?",
+          "tr": "Hôm nay bạn đã sẵn sàng cùng luyện tiếng Anh chưa?",
+          "target": "Are you",
+          "illus_tag": "💬 Practice Together",
+          "media_state": "image_ready"
+        }
+      ],
+      "practice": [
+        {
+          "q_en": "She ___ proud of her small pottery workshop.",
+          "q_tr": "Cô ấy tự hào về xưởng gốm nhỏ của mình.",
+          "options": [
+            "am",
+            "is",
+            "are",
+            "be"
+          ],
+          "answer": "is",
+          "full_en": "She is proud of her small pottery workshop."
+        },
+        {
+          "q_en": "We ___ from different provinces, but we work together.",
+          "q_tr": "Chúng tôi đến từ nhiều tỉnh khác nhau, nhưng cùng làm việc chung.",
+          "options": [
+            "is",
+            "am",
+            "are",
+            "be"
+          ],
+          "answer": "are",
+          "full_en": "We are from different provinces, but we work together."
+        }
+      ]
+    },
+    {
+      "id": "g_07",
+      "code": "B07",
+      "stage": 2,
+      "unit_no": 7,
+      "tier": "core",
+      "title_en": "Daily Routines — The Present Simple",
+      "title_tr": "Thói quen hằng ngày — Thì Hiện tại Đơn",
+      "est_minutes": 6,
+      "scene_caption": "Watch the situation · 6 seconds · a family's morning",
+      "media": {
+        "scene_id": "g_07_hero",
+        "state": "video_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/g_07_hero.jpg",
+        "video": "https://cdn.sonario.pp.ua/media/video-480p/clips/g_07_hero.mp4"
+      },
+      "dialogue": [
+        {
+          "speaker": "Mum",
+          "side": "a",
+          "en": "What time do you get up, Nam?",
+          "tr": "Con thức dậy lúc mấy giờ vậy Nam?"
+        },
+        {
+          "speaker": "Nam",
+          "side": "b",
+          "en": "I get up at six. I walk to school with Lan.",
+          "tr": "Con dậy lúc sáu giờ. Con đi bộ tới trường cùng Lan."
+        },
+        {
+          "speaker": "Mum",
+          "side": "a",
+          "en": "And your sister?",
+          "tr": "Thế còn chị gái con thì sao?"
+        },
+        {
+          "speaker": "Nam",
+          "side": "b",
+          "en": "She gets up at five. She loves the quiet morning.",
+          "tr": "Chị ấy dậy lúc năm giờ. Chị ấy yêu buổi sáng yên tĩnh."
+        }
+      ],
+      "rules_bilingual": [
+        {
+          "en": "For things you do again and again: <b>I walk</b>, <b>we play</b>.",
+          "tr": "Dùng cho việc lặp đi lặp lại hằng ngày: <b>I walk</b> (tôi đi bộ), <b>we play</b> (chúng tôi chơi)."
+        },
+        {
+          "en": "With <b>he / she / it</b>, add <b>-s</b> or <b>-es</b>: <b>she walks</b>, <b>he teaches</b>.",
+          "tr": "Với chủ ngữ <b>he / she / it</b>, thêm <b>-s</b> hoặc <b>-es</b> vào động từ: <b>she walks</b>, <b>he teaches</b>."
+        },
+        {
+          "en": "Questions and negatives use <b>do / does</b> (and the main verb drops <b>-s</b>): <b>Does she walk?</b>",
+          "tr": "Câu hỏi và phủ định dùng trợ động từ <b>do / does</b> (động từ chính trở về nguyên mẫu): <b>Does she walk?</b>"
+        }
+      ],
+      "examples": [
+        {
+          "id": "g_07_01",
+          "en": "She waters the young tree every morning.",
+          "tr": "Cô ấy tưới cây non vào mỗi buổi sáng.",
+          "target": "waters",
+          "illus_tag": "🌱 Watering at 6:00",
+          "media_state": "video_ready"
+        },
+        {
+          "id": "g_07_02",
+          "en": "We walk to the town library every Sunday.",
+          "tr": "Chúng tôi đi bộ tới thư viện thị trấn mỗi Chủ nhật.",
+          "target": "walk",
+          "illus_tag": "🚶‍♂️🚶‍♀️ Sunday Library",
+          "media_state": "image_ready"
+        },
+        {
+          "id": "g_07_03",
+          "en": "He repairs donated laptops for village children on Saturdays.",
+          "tr": "Anh ấy sửa máy tính quyên góp cho trẻ em trong làng vào thứ Bảy.",
+          "target": "repairs",
+          "illus_tag": "💻 Fixing Laptops",
+          "media_state": "image_ready"
+        },
+        {
+          "id": "g_07_04",
+          "en": "My mother drinks warm ginger tea before work.",
+          "tr": "Mẹ tôi uống trà gừng ấm trước giờ làm việc.",
+          "target": "drinks",
+          "illus_tag": "🍵 Warm Ginger Tea",
+          "media_state": "image_ready"
+        },
+        {
+          "id": "g_07_05",
+          "en": "They sort plastic and paper to keep the river clean.",
+          "tr": "Họ phân loại nhựa và giấy để giữ dòng sông sạch sẽ.",
+          "target": "sort",
+          "illus_tag": "♻️ Clean River",
+          "media_state": "image_ready"
+        },
+        {
+          "id": "g_07_06",
+          "en": "She doesn't judge people by their accent.",
+          "tr": "Cô ấy không đánh giá con người qua giọng vùng miền của họ.",
+          "target": "doesn't judge",
+          "illus_tag": "🗣️ Respect Accents",
+          "media_state": "image_ready"
+        },
+        {
+          "id": "g_07_07",
+          "en": "Does the first bus arrive at six thirty?",
+          "tr": "Chuyến xe buýt đầu tiên có đến lúc sáu giờ rưỡi không?",
+          "target": "Does ... arrive",
+          "illus_tag": "🚌 06:30 Bus Stop",
+          "media_state": "image_ready"
+        },
+        {
+          "id": "g_07_08",
+          "en": "Honest effort builds quiet confidence every single day.",
+          "tr": "Nỗ lực trung thực xây dựng sự tự tin vững vàng mỗi ngày.",
+          "target": "builds",
+          "illus_tag": "✨ Daily Effort",
+          "media_state": "image_ready"
+        }
+      ],
+      "practice": [
+        {
+          "q_en": "She ___ to school every day.",
+          "q_tr": "Cô ấy đi bộ đến trường mỗi ngày.",
+          "options": [
+            "walk",
+            "walks",
+            "walking",
+            "walked"
+          ],
+          "answer": "walks",
+          "full_en": "She walks to school every day."
+        },
+        {
+          "q_en": "He ___ judge people by their accent.",
+          "q_tr": "Anh ấy không đánh giá người khác qua giọng nói.",
+          "options": [
+            "don't",
+            "doesn't",
+            "isn't",
+            "not"
+          ],
+          "answer": "doesn't",
+          "full_en": "He doesn't judge people by their accent."
+        }
+      ]
+    },
+    {
+      "id": "g_08",
+      "code": "B08",
+      "stage": 2,
+      "unit_no": 8,
+      "tier": "core",
+      "title_en": "Right Now — The Present Continuous",
+      "title_tr": "Ngay lúc này — Thì Hiện tại Tiếp diễn",
+      "est_minutes": 6,
+      "scene_caption": "Watch the situation · 6 seconds · planting trees in the schoolyard",
+      "media": {
+        "scene_id": "g_08_hero",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/g_08_hero.jpg",
+        "video": null
+      },
+      "dialogue": [
+        {
+          "speaker": "Hoa",
+          "side": "a",
+          "en": "Where is Tuan? The rain is starting!",
+          "tr": "Tuấn đâu rồi? Trời đang bắt đầu mưa kìa!"
+        },
+        {
+          "speaker": "Nam",
+          "side": "b",
+          "en": "He is outside. He is covering the young seedlings.",
+          "tr": "Cậu ấy ở ngoài sân. Cậu ấy đang che mưa cho mấy luống cây non."
+        },
+        {
+          "speaker": "Hoa",
+          "side": "a",
+          "en": "Let's grab two umbrellas. We are coming to help him right now.",
+          "tr": "Lấy hai chiếc ô đi. Chúng mình đang ra giúp cậu ấy ngay đây."
+        }
+      ],
+      "rules_bilingual": [
+        {
+          "en": "For actions happening at this exact moment: <b>am / is / are + V-ing</b> (<b>He is covering</b>).",
+          "tr": "Dùng cho hành động đang diễn ra ngay lúc nói: <b>am / is / are + V-ing</b> (tương đương chữ <b>đang</b> trong tiếng Việt)."
+        },
+        {
+          "en": "Do not forget <b>am / is / are</b> before <b>V-ing</b>: say <b>I am reading</b> (never <i>*I reading</i>).",
+          "tr": "Không được quên <b>am / is / are</b> trước <b>V-ing</b>: luôn nói <b>I am reading</b> (không nói <i>*I reading</i>)."
+        }
+      ],
+      "examples": [
+        {
+          "id": "g_08_01",
+          "en": "Look! The children are planting mango trees by the fence.",
+          "tr": "Nhìn kìa! Các em nhỏ đang trồng cây xoài cạnh hàng rào.",
+          "target": "are planting",
+          "illus_tag": "🌳 Planting Now",
+          "media_state": "image_ready"
+        },
+        {
+          "id": "g_08_02",
+          "en": "Please speak softly; the baby is sleeping in the next room.",
+          "tr": "Xin hãy nói khẽ; em bé đang ngủ ở phòng bên cạnh.",
+          "target": "is sleeping",
+          "illus_tag": "🤫 Baby Sleeping",
+          "media_state": "image_ready"
+        },
+        {
+          "id": "g_08_03",
+          "en": "I am reading a free science book on my phone right now.",
+          "tr": "Ngay lúc này tôi đang đọc một cuốn sách khoa học miễn phí trên điện thoại.",
+          "target": "am reading",
+          "illus_tag": "📱 Reading Now",
+          "media_state": "image_ready"
+        },
+        {
+          "id": "g_08_04",
+          "en": "Why are you carrying two heavy boxes alone? Let me help!",
+          "tr": "Sao bạn lại đang bê hai thùng nặng một mình thế? Để mình phụ cho!",
+          "target": "are you carrying",
+          "illus_tag": "📦 Helping Hand",
+          "media_state": "image_ready"
+        },
+        {
+          "id": "g_08_05",
+          "en": "She isn't watching TV; she is bandaging a stray puppy's paw.",
+          "tr": "Cô ấy không đang xem TV; cô ấy đang băng chân cho một chú chó nhỏ bị lạc.",
+          "target": "is bandaging",
+          "illus_tag": "🐶 Caring for Puppy",
+          "media_state": "image_ready"
+        },
+        {
+          "id": "g_08_06",
+          "en": "The technicians are testing the solar panels on the roof.",
+          "tr": "Các kỹ thuật viên đang kiểm tra tấm pin mặt trời trên mái nhà.",
+          "target": "are testing",
+          "illus_tag": "☀️ Solar Roof",
+          "media_state": "image_ready"
+        },
+        {
+          "id": "g_08_07",
+          "en": "We are waiting for our turn at the community clinic.",
+          "tr": "Chúng tôi đang xếp hàng chờ tới lượt tại trạm y tế cộng đồng.",
+          "target": "are waiting",
+          "illus_tag": "🏥 Fair Queue",
+          "media_state": "image_ready"
+        },
+        {
+          "id": "g_08_08",
+          "en": "The river water is rising fast after the autumn storm.",
+          "tr": "Nước sông đang dâng nhanh sau cơn bão mùa thu.",
+          "target": "is rising",
+          "illus_tag": "🌊 Rising River",
+          "media_state": "image_ready"
+        }
+      ],
+      "practice": [
+        {
+          "q_en": "Please be quiet — the baby ___ in the next room.",
+          "q_tr": "Xin giữ yên lặng — em bé đang ngủ ở phòng bên.",
+          "options": [
+            "sleep",
+            "sleeps",
+            "is sleeping",
+            "sleeping"
+          ],
+          "answer": "is sleeping",
+          "full_en": "Please be quiet — the baby is sleeping in the next room."
+        }
+      ]
+    },
+    {
+      "id": "g_09",
+      "code": "B09",
+      "stage": 2,
+      "unit_no": 9,
+      "tier": "core",
+      "title_en": "a / an / the — Articles in Context",
+      "title_tr": "Mạo từ a / an / the trong ngữ cảnh thực tế",
+      "est_minutes": 6,
+      "scene_caption": "Watch the situation · 6 seconds · borrowing a book at the library",
+      "media": {
+        "scene_id": "g_09_hero",
+        "state": "image_ready",
+        "image": "https://cdn.sonario.pp.ua/media/stills/g_09_hero.jpg",
+        "video": null
+      },
+      "dialogue": [
+        {
+          "speaker": "Lan",
+          "side": "a",
+          "en": "I found an old notebook on a bench this morning.",
+          "tr": "Sáng nay mình nhặt được một cuốn sổ cũ trên một chiếc ghế dài."
+        },
+        {
+          "speaker": "Minh",
+          "side": "b",
+          "en": "Does the notebook have a name on the cover?",
+          "tr": "Cuốn sổ đó có ghi tên ở ngoài bìa không?"
+        },
+        {
+          "speaker": "Lan",
+          "side": "a",
+          "en": "Yes! The name is inside. Let's return the notebook to its owner.",
+          "tr": "Có đấy! Tên nằm ở bên trong. Chúng mình đem trả cuốn sổ cho chủ của nó nhé."
+        }
+      ],
+      "rules_bilingual": [
+        {
+          "en": "Use <b>a / an</b> the first time you mention one countable thing: <b>a bench</b>, <b>an old notebook</b>.",
+          "tr": "Dùng <b>a / an</b> khi nhắc tới một sự vật đếm được lần đầu tiên: <b>a bench</b> (trước âm phụ âm), <b>an old notebook</b> (trước âm nguyên âm)."
+        },
+        {
+          "en": "Use <b>the</b> when both speaker and listener already know which specific item is meant: <b>the notebook</b>, <b>the sun</b>.",
+          "tr": "Dùng <b>the</b> khi cả người nói lẫn người nghe đều đã biết rõ đang nói về vật cụ thể nào: <b>the notebook</b> (cuốn sổ vừa nhắc), <b>the sun</b> (mặt trời)."
+        }
+      ],
+      "examples": [
+        {
+          "id": "g_09_01",
+          "en": "He found a lost key and gave the key back to his neighbor.",
+          "tr": "Anh ấy nhặt được một chiếc chìa khóa rơi và đã trả chiếc chìa khóa đó cho hàng xóm.",
+          "target": "a ... the",
+          "illus_tag": "🔑 Lost → Returned",
+          "media_state": "image_ready"
+        },
+        {
+          "id": "g_09_02",
+          "en": "She is an engineer at the local water treatment plant.",
+          "tr": "Cô ấy là một kỹ sư tại nhà máy xử lý nước địa phương.",
+          "target": "an ... the",
+          "illus_tag": "💧 Water Engineer",
+          "media_state": "image_ready"
+        },
+        {
+          "id": "g_09_03",
+          "en": "The river behind our house is clean today.",
+          "tr": "Con sông phía sau nhà chúng tôi hôm nay rất sạch.",
+          "target": "The",
+          "illus_tag": "🏞️ Clean River",
+          "media_state": "image_ready"
+        },
+        {
+          "id": "g_09_04",
+          "en": "Can you pass me the salt on the table, please?",
+          "tr": "Bạn làm ơn chuyển giúp mình lọ muối trên bàn được không?",
+          "target": "the",
+          "illus_tag": "🧂 At the Table",
+          "media_state": "image_ready"
+        },
+        {
+          "id": "g_09_05",
+          "en": "An honest answer is better than a clever excuse.",
+          "tr": "Một câu trả lời trung thực luôn tốt hơn một lời bào chữa khéo léo.",
+          "target": "An ... a",
+          "illus_tag": "⚖️ Honest Answer",
+          "media_state": "image_ready"
+        },
+        {
+          "id": "g_09_06",
+          "en": "The moon is shining brightly over the quiet rice field.",
+          "tr": "Mặt trăng đang chiếu sáng rực rỡ trên cánh đồng lúa yên bình.",
+          "target": "The ... the",
+          "illus_tag": "🌕 Moonlit Field",
+          "media_state": "image_ready"
+        },
+        {
+          "id": "g_09_07",
+          "en": "I waited for an hour to help the elderly passenger.",
+          "tr": "Tôi đã đợi suốt một tiếng đồng hồ để hỗ trợ vị hành khách lớn tuổi.",
+          "target": "an ... the",
+          "illus_tag": "⏳ Silent 'h' in hour",
+          "media_state": "image_ready"
+        },
+        {
+          "id": "g_09_08",
+          "en": "Knowledge belongs to the whole world, not to a few people.",
+          "tr": "Tri thức thuộc về toàn thế giới, chứ không thuộc về một vài người.",
+          "target": "the ... a",
+          "illus_tag": "🌍 Open Knowledge",
+          "media_state": "image_ready"
+        }
+      ],
+      "practice": [
+        {
+          "q_en": "I found ___ old notebook on the bench. ___ notebook belongs to Mai.",
+          "q_tr": "Mình nhặt được một cuốn sổ cũ trên ghế. Cuốn sổ đó là của Mai.",
+          "options": [
+            "a / A",
+            "an / The",
+            "the / An",
+            "an / A"
+          ],
+          "answer": "an / The",
+          "full_en": "I found an old notebook on the bench. The notebook belongs to Mai."
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "stage_no": 1,
+      "title_en": "Stage 1 · First Steps",
+      "title_tr": "Chặng 1 · Những bước đầu tiên",
+      "subtitle_en": "Be, have, and your first sentences",
+      "subtitle_tr": "Động từ to be, have và những câu giao tiếp đầu tiên",
+      "units": [
+        {
+          "code": "A01",
+          "id": "g_01",
+          "label": "A01 I am…",
+          "title_en": "I am / you are"
+        },
+        {
+          "code": "A02",
+          "id": "g_02",
+          "label": "A02 You are…",
+          "title_en": "Questions with be"
+        },
+        {
+          "code": "A03",
+          "id": "g_03",
+          "label": "A03 This is…",
+          "title_en": "This / that / these / those"
+        },
+        {
+          "code": "A04",
+          "id": "g_04",
+          "label": "A04 I have…",
+          "title_en": "Have and has"
+        },
+        {
+          "code": "A05",
+          "id": "g_05",
+          "label": "A05 My, your…",
+          "title_en": "Possessive adjectives"
+        },
+        {
+          "code": "A06",
+          "id": "g_06",
+          "label": "A06 Questions",
+          "title_en": "Who / what / where"
+        }
+      ]
+    },
+    {
+      "stage_no": 2,
+      "title_en": "Stage 2 · Everyday Life",
+      "title_tr": "Chặng 2 · Đời sống hằng ngày",
+      "subtitle_en": "Routines, home, food, and the present",
+      "subtitle_tr": "Thói quen, gia đình, ẩm thực và các thì hiện tại",
+      "units": [
+        {
+          "code": "B07",
+          "id": "g_07",
+          "label": "B07 Routines",
+          "title_en": "Present simple habits"
+        },
+        {
+          "code": "B08",
+          "id": "g_08",
+          "label": "B08 Right now",
+          "title_en": "Present continuous"
+        },
+        {
+          "code": "B09",
+          "id": "g_09",
+          "label": "B09 a / an / the",
+          "title_en": "Articles in context"
+        },
+        {
+          "code": "B10",
+          "id": "g_10",
+          "label": "B10 Some & any",
+          "title_en": "Countable & uncountable"
+        },
+        {
+          "code": "B11",
+          "id": "g_11",
+          "label": "B11 Can do",
+          "title_en": "Can and can't for ability"
+        },
+        {
+          "code": "B12",
+          "id": "g_12",
+          "label": "B12 Let's…",
+          "title_en": "Imperatives & suggestions"
+        }
+      ]
+    },
+    {
+      "stage_no": 3,
+      "title_en": "Stage 3 · Time & Stories",
+      "title_tr": "Chặng 3 · Thời gian & Câu chuyện",
+      "subtitle_en": "Yesterday, tomorrow, and telling what happened",
+      "subtitle_tr": "Hôm qua, ngày mai và kể lại sự việc đã diễn ra",
+      "units": [
+        {
+          "code": "C13",
+          "id": "g_13",
+          "label": "C13 Was / were",
+          "title_en": "Past of be"
+        },
+        {
+          "code": "C14",
+          "id": "g_14",
+          "label": "C14 Past actions",
+          "title_en": "Past simple regular & irregular"
+        },
+        {
+          "code": "C15",
+          "id": "g_15",
+          "label": "C15 Plans",
+          "title_en": "Going to for future plans"
+        },
+        {
+          "code": "C16",
+          "id": "g_16",
+          "label": "C16 Will & going to",
+          "title_en": "Promises & predictions"
+        },
+        {
+          "code": "C17",
+          "id": "g_17",
+          "label": "C17 First, then…",
+          "title_en": "Time linkers in stories"
+        }
+      ]
+    },
+    {
+      "stage_no": 4,
+      "title_en": "Stage 4 · Connecting Ideas",
+      "title_tr": "Chặng 4 · Kết nối Ý tưởng",
+      "subtitle_en": "Because, but, if — and comparing things",
+      "subtitle_tr": "Nguyên nhân, đối lập, giả định và so sánh",
+      "units": [
+        {
+          "code": "D18",
+          "id": "g_18",
+          "label": "D18 Because",
+          "title_en": "Because, so, and but"
+        },
+        {
+          "code": "D19",
+          "id": "g_19",
+          "label": "D19 Bigger & best",
+          "title_en": "Comparatives & superlatives"
+        },
+        {
+          "code": "D20",
+          "id": "g_20",
+          "label": "D20 If…",
+          "title_en": "First conditional"
+        },
+        {
+          "code": "D21",
+          "id": "g_21",
+          "label": "D21 Must & should",
+          "title_en": "Advice & obligation"
+        }
+      ]
+    },
+    {
+      "stage_no": 5,
+      "title_en": "Stage 5 · Sounding Natural (Units E22–E60)",
+      "title_tr": "Chặng 5 · Diễn đạt Tự nhiên (Bài E22–E60)",
+      "subtitle_en": "Polite, precise, and confident English across 60 core units",
+      "subtitle_tr": "Tiếng Anh lịch sự, chính xác và tự tin trọn 60 bài ngữ pháp",
+      "units": [
+        {
+          "code": "E22",
+          "id": "g_22",
+          "label": "E22 Have you ever…?",
+          "title_en": "Present perfect experiences"
+        },
+        {
+          "code": "E23",
+          "id": "g_23",
+          "label": "E23 It is said…",
+          "title_en": "Passive voice in science & news"
+        },
+        {
+          "code": "E24",
+          "id": "g_24",
+          "label": "E24 Polite requests",
+          "title_en": "Could you / Would you mind"
+        },
+        {
+          "code": "E25",
+          "id": "g_25",
+          "label": "E25–E60 Full Map",
+          "title_en": "Relative clauses, reported speech & synthesis"
+        }
+      ]
+    }
+  ]
+}
