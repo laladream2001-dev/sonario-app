@@ -3753,7 +3753,7 @@ const SonarioApp = {
       const slotId = `ex-tr-${unit.id}-${i}`;
       const alwaysVis = this.prefs.alwaysShowExampleTr ? "visible" : "";
       const highlightedEn = ex.en.replace(
-        new RegExp(`\b(${ex.target.replace(/[.*+?^${}()|[\]\]/g, '\$&')})\b`, "i"),
+        new RegExp(`\b(${ex.target.replace(/[.*+?^${}()|[\]\\]/g, '\$&')})\b`, "i"),
         "<b>$1</b>"
       );
       const safeEnQuotes = ex.en.replace(/'/g, "\'");
@@ -3832,7 +3832,7 @@ const SonarioApp = {
     const safeWordQuotes = w.word.replace(/'/g, "\'");
     const safeSentQuotes = w.example_en.replace(/'/g, "\'");
     const highlightedSent = w.example_en.replace(
-      new RegExp(`\b(${w.word.replace(/[.*+?^${}()|[\]\]/g, '\$&')})\b`, "i"),
+      new RegExp(`\b(${w.word.replace(/[.*+?^${}()|[\]\\]/g, '\$&')})\b`, "i"),
       "<b>$1</b>"
     );
 
@@ -3919,7 +3919,7 @@ const SonarioApp = {
     const safeSentQuotes = card.example_en.replace(/'/g, "\'");
 
     const clozeSentence = card.example_en.replace(
-      new RegExp(`\b(${card.word.replace(/[.*+?^${}()|[\]\]/g, '\$&')})\b`, "i"),
+      new RegExp(`\b(${card.word.replace(/[.*+?^${}()|[\]\\]/g, '\$&')})\b`, "i"),
       this.reviewRevealed ? `<span class="cloze-gap">${card.word}</span>` : `<span class="cloze-gap">?</span>`
     );
 
